@@ -5,3 +5,9 @@ Este repositorio contiene toda la información relacionada con una práctica par
 # Contenidos
 
 + busqueda_bibliografia.xmind: Mapa mental que muestra los contenidos de la práctica.
+
++ guion_practica_biblio.md: Guión con la secuencia de actividades a desarrollar durante la práctica.
+
++ guion_practica_biblio.html: igual que antes pero en html.
+
+  

@@ -14,10 +14,10 @@ Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes 
 
 + Instrumentales (también llamados competenciales): Están relacionados con la adquisición de competencias en el manejo de herramientas potencialmente útiles en ecología y en otros ámbitos:
    + Aprender a buscar literatura científica.
-+ Conocer los distintos tipos de artículos científicos.
-+ Aprender la estructura de un artículo científico.
-+ Usar buscadores de bibliografía científica digital.
-+ Saber distinguir la literatura científica de la periodística y de la de opinión. 
+   + Conocer los distintos tipos de artículos científicos.
+   + Aprender la estructura de un artículo científico.
+   + Usar buscadores de bibliografía científica digital.
+   + Saber distinguir la literatura científica de la periodística y de la de opinión. 
 + Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología.
    + Responder a una serie de preguntas buscando bibliografía sobre las mismas.
 

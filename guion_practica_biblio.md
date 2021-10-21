@@ -23,7 +23,7 @@ Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes 
 
  ## Contenidos
 En esta sesión se suministra el siguiente material a los estudiantes:
-+ Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). 
++ Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2020-2021/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). 
 + Planteamiento de un ejercicio para poner en práctica lo comentado anteriormente:
   + Se plantean tres preguntas complejas para cuya respuesta debemos recurrir a buscar bibliografía en internet. Son las siguientes:
     + ¿Son útiles los espacios protegidos para frenar la pérdida de biodiversidad?

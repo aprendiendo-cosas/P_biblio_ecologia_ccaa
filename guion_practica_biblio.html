@@ -2,7 +2,8 @@
 <html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>guion_practica_biblio</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
+
+<link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; --title-bar-height: 20px; }
 .mac-os-11 { --title-bar-height: 28px; }
 html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
 body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
@@ -66,7 +67,7 @@ div.hr:focus { cursor: none; }
 #write pre.ty-contain-cm { white-space: normal; }
 .CodeMirror-gutters { margin-right: 4px; }
 .md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; position: relative !important; background-position: inherit inherit; background-repeat: inherit inherit; }
-.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
 #write .md-fences.mock-cm { white-space: pre-wrap; }
 .md-fences.md-fences-with-lineno { padding-left: 0px; }
 #write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
@@ -91,6 +92,7 @@ blockquote > :first-child, li > :first-child { margin-top: 0px; }
   .typora-export #write { break-after: avoid; }
   .typora-export #write::after { height: 0px; }
   .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
 }
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
 a img, img a { cursor: pointer; }
@@ -135,15 +137,6 @@ kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 
 .md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
 code { text-align: left; }
 a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
-.md-inline-math .MathJax_SVG .noError { display: none !important; }
-.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
-.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
-.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
-.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
-.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
-.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
-.MathJax_SVG * { transition: none; }
-.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
 .os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
 .md-diagram-panel > svg { max-width: 100%; }
 [lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
@@ -154,14 +147,58 @@ iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
 mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); background-position: initial initial; background-repeat: initial initial; }
 .md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
-mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
 @media print { 
   .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
 }
 .md-diagram-panel .messageText { stroke: none !important; }
 .md-diagram-panel .start-state { fill: var(--node-fill); }
 .md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
-.md-require-zoom-fix foreignObject { font-size: var(--mermaid-font-zoom); }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; background-position: inherit inherit; background-repeat: inherit inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex: 2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) { 
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) { 
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.428571429rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ''; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ''; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left-width: 28px; border-left-style: solid; border-left-color: transparent; border-right-width: 28px; border-right-style: solid; border-right-color: transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ''; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right-width: 8px; border-right-style: solid; border-right-color: transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: '−'; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+.md-inline-math-container mjx-container { zoom: 0.95; }
 
 
 :root {
@@ -177,10 +214,11 @@ mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
     /* open-sans-700italic - latin-ext_latin */
   html {
     font-size: 16px;
+    -webkit-font-smoothing: antialiased;
 }
 
 body {
-    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
     color: rgb(51, 51, 51);
     line-height: 1.6;
 }
@@ -349,7 +387,7 @@ table {
     word-break: initial;
 }
 table tr {
-    border-top: 1px solid #dfe2e5;
+    border: 1px solid #dfe2e5;
     margin: 0;
     padding: 0;
 }
@@ -523,9 +561,9 @@ header, .context-menu, .megamenu-content, footer{
     color: #b4654d;
 }
 
-.html-for-mac .context-menu {
+/*.html-for-mac {
     --item-hover-bg-color: #E6F0FE;
-}
+}*/
 
 #md-notification .btn {
     border: 0;
@@ -533,6 +571,7 @@ header, .context-menu, .megamenu-content, footer{
 
 .dropdown-menu .divider {
     border-color: #e5e5e5;
+    opacity: 0.4;
 }
 
 .ty-preferences .window-content {
@@ -544,10 +583,16 @@ header, .context-menu, .megamenu-content, footer{
     background: #999;
 }
 
- :root {--mermaid-font-zoom:1em ;} 
-</style>
+.menu-item-container a.menu-style-btn {
+    background-color: #f5f8fa;
+    background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0)); 
+}
+
+
+ @media print { @page {margin: 0 0 0 0;} body.typora-export {padding-left: 0; padding-right: 0;} #write {padding:0;}}
+</style><title>guion_practica_biblio</title>
 </head>
-<body class='typora-export'>
-<div id='write'  class=''><h1><a name="guión-de-la-práctica-denominada-búsqueda-y-análisis-de-bibliografía-científica" class="md-header-anchor"></a><span>Guión de la práctica denominada &quot;Búsqueda y análisis de bibliografía científica&quot;</span></h1><blockquote><ul><li><strong><em><span>Versión</span></em></strong><span>: v.2020-2021</span></li><li><strong><em><span>Asignatura (grado)</span></em></strong><span>: Ecología (CCAA)</span></li><li><strong><em><span>Autor</span></em></strong><span>: Curro Bonet-García (fjbonet@uco.es)</span></li><li><strong><em><span>Duración</span></em></strong><span>:  3 horas.</span></li></ul></blockquote><p>&nbsp;</p><h2><a name="objetivos" class="md-header-anchor"></a><span>Objetivos </span></h2><p><span>Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes objetivos:</span></p><ul><li><p><span>Instrumentales (también llamados competenciales): Están relacionados con la adquisición de competencias en el manejo de herramientas potencialmente útiles en ecología y en otros ámbitos:</span></p><ul><li><span>Aprender a buscar literatura científica.</span></li><li><span>Conocer los distintos tipos de artículos científicos.</span></li><li><span>Aprender la estructura de un artículo científico.</span></li><li><span>Usar buscadores de bibliografía científica digital.</span></li><li><span>Saber distinguir la literatura científica de la periodística y de la de opinión. </span></li></ul></li><li><p><span>Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología.</span></p><ul><li><span>Responder a una serie de preguntas buscando bibliografía sobre las mismas.</span></li></ul></li></ul><h2><a name="contenidos" class="md-header-anchor"></a><span>Contenidos</span></h2><p><span>En esta sesión se suministra el siguiente material a los estudiantes:</span></p><ul><li><p><span>Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. </span><a href='https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/busqueda_bibliografia.xmind'><span>Este</span></a><span> mapa mental contiene toda la información aportada. El mapa se abre con </span><a href='https://www.xmind.net/'><span>Xmind</span></a><span>. </span></p></li><li><p><span>Planteamiento de un ejercicio para poner en práctica lo comentado anteriormente:</span></p><ul><li><p><span>Se plantean tres preguntas complejas para cuya respuesta debemos recurrir a buscar bibliografía en internet. Son las siguientes:</span></p><ul><li><span>¿Son útiles los espacios protegidos para frenar la pérdida de biodiversidad?</span></li><li><span>¿Están sufriendo los osos polares un declive poblacional provocado por la reducción del hielo ártico?</span></li><li><span>¿Es la reforestación masiva una herramienta útil para reducir el impacto del cambio climático?</span></li></ul></li><li><p><span>Abordamos las preguntas anteriores completando una plantilla que contiene los siguientes apartados:</span></p><ul><li><span>Identifica los elementos clave de la pregunta seleccionada. Estos elementos se usarán para hacer la búsqueda bibliográfica. </span></li><li><span>Selección de 4 artículos científicos recientes (después de 2010) sobre la pregunta. Anota su DOI o la URL para descargarlos.</span></li><li><span>Selección de al menos 1 artículo o informe no científico sobre la pregunta.</span></li><li><span>Extracción de contenido relevante del material anterior. Se pueden pegar fragmentos literales de los artículos seleccionados.</span></li><li><span>Conclusiones. Elabora un texto que responda a la pregunta inicial en función de la información extraida de los artículos.</span></li></ul></li><li><p><span>Para realizar el ejercicio nos dividimos en grupos de 3-4 personas. En total se crean 6 grupos.</span></p></li><li><p><span>Para buscar artículos científicos se recomienda utilizar el buscador de Web of Science (</span><a href='https://login.webofknowledge.com/'><span>WoS</span></a><span>), aunque también es válido usar cualquier otro. El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis </span><a href='https://es.wikipedia.org/wiki/Sci-Hub'><span>Sci-Hub...</span></a><span>). Para conectar a la red UCO hay dos opciones:</span></p><ul><li><span>Configurar un acceso vía VPN desde vuestro ordenador. </span><a href='http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn'><span>Aquí</span></a><span> tenéis las instrucciones.</span></li><li><span>Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. </span><a href='https://citrix.uco.es/'><span>Aquí</span></a><span> tenéis la dirección de acceso. Entrad con vuestro usuario UCO y seguid las instrucciones.</span></li></ul></li></ul></li></ul><p>&nbsp;</p><h2><a name="resultados" class="md-header-anchor"></a><span>Resultados</span></h2><p><span>Tanto el GM-1 como el GM-2 hicieron un estupendo trabajo identificando artículos y extrayendo información de los mismos. Quizás nos faltó algo de tiempo para terminar de elaborar las conclusiones. </span></p><p><span>Los siguientes enlaces muestran los documentos de Gdrive en los que trabajó cada grupo. Están accesibles en modo comentarios. Es decir, solo podéis hacer comentarios y sugerencias. He puesto comentarios a vuestros trabajos. Responded a dichos comentarios os ayudará a fijar el conocimiento adquirido en esta práctica. Este ejercicio no es calificable:</span></p><ul><li><p><span>GM-2:</span></p><ul><li><a href='https://docs.google.com/document/d/1xiliC4htYuamxOhpQMXbP1ayRFIqkN-BlQRpCCw9Upo/edit?usp=sharing'><span>Grupo 1. Efecto de los ENPs</span></a></li><li><a href='https://docs.google.com/document/d/1NiJ6QjzMIIzj0vml4Jpoki9DHD2MFA4UcWUW7ghrfY8/edit?usp=sharing'><span>Grupo 2. Efecto de los ENPs.</span></a></li><li><a href='https://docs.google.com/document/d/1ccDEvgsbyi_q6Ed2EfqciEh_khnyPhgBMloaCZ3OFjw/edit?usp=sharing'><span>Grupo 3. Reforestación.</span></a></li><li><a href='https://docs.google.com/document/d/1ftOJ--uBHKMUtN5Atih2czQ-4i545YTVON9ncCyhYow/edit?usp=sharing'><span>Grupo 4. Efecto de los ENPs.</span></a></li><li><a href='https://docs.google.com/document/d/1Z_tsZ9TQa8WyCCZ6VdutYkYN98SZ8Nf0to9KUgecVTs/edit?usp=sharing'><span>Grupo 5. Reforestación.</span></a></li><li><a href='https://docs.google.com/document/d/12_eFHlxGXf6lKZScRWrg54a-IDiQqFF2oddQFVPqB14/edit?usp=sharing'><span>Grupo 6. Osos polares.</span></a></li></ul></li></ul><p>&nbsp;</p><p><span>Los siguientes vídeos muestran la grabación de las sesiones en ambos grupos medianos:</span></p><p><span>GM-1</span></p><iframe width="560" height="315" src="https://www.youtube.com/embed/cplU5RO109k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p><span>GM-2</span></p><iframe width="560" height="315" src="https://www.youtube.com/embed/lSsk_BepraI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<body class='typora-export'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='guión-de-la-práctica-denominada-búsqueda-y-análisis-de-bibliografía-científica'><span>Guión de la práctica denominada &quot;Búsqueda y análisis de bibliografía científica&quot;</span></h1><blockquote><ul><li><strong><em><span>Versión</span></em></strong><span>: v.2020-2021</span></li><li><strong><em><span>Asignatura (grado)</span></em></strong><span>: Ecología (CCAA)</span></li><li><strong><em><span>Autor</span></em></strong><span>: Curro Bonet-García (fjbonet@uco.es)</span></li><li><strong><em><span>Duración</span></em></strong><span>:  3 horas.</span></li></ul></blockquote><p>&nbsp;</p><h2 id='objetivos'><span>Objetivos </span></h2><p><span>Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes objetivos:</span></p><ul><li><p><span>Instrumentales (también llamados competenciales): Están relacionados con la adquisición de competencias en el manejo de herramientas potencialmente útiles en ecología y en otros ámbitos:</span></p><ul><li><span>Aprender a buscar literatura científica.</span></li><li><span>Conocer los distintos tipos de artículos científicos.</span></li><li><span>Aprender la estructura de un artículo científico.</span></li><li><span>Usar buscadores de bibliografía científica digital.</span></li><li><span>Saber distinguir la literatura científica de la periodística y de la de opinión. </span></li></ul></li><li><p><span>Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología.</span></p><ul><li><span>Responder a una serie de preguntas buscando bibliografía sobre las mismas.</span></li></ul></li></ul><h2 id='contenidos'><span>Contenidos</span></h2><p><span>En esta sesión se suministra el siguiente material a los estudiantes:</span></p><ul><li><p><span>Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. </span><a href='https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2020-2021/busqueda_bibliografia.xmind'><span>Este</span></a><span> mapa mental contiene toda la información aportada. El mapa se abre con </span><a href='https://www.xmind.net/'><span>Xmind</span></a><span>. </span></p></li><li><p><span>Planteamiento de un ejercicio para poner en práctica lo comentado anteriormente:</span></p><ul><li><p><span>Se plantean tres preguntas complejas para cuya respuesta debemos recurrir a buscar bibliografía en internet. Son las siguientes:</span></p><ul><li><span>¿Son útiles los espacios protegidos para frenar la pérdida de biodiversidad?</span></li><li><span>¿Están sufriendo los osos polares un declive poblacional provocado por la reducción del hielo ártico?</span></li><li><span>¿Es la reforestación masiva una herramienta útil para reducir el impacto del cambio climático?</span></li></ul></li><li><p><span>Abordamos las preguntas anteriores completando una plantilla que contiene los siguientes apartados:</span></p><ul><li><span>Identifica los elementos clave de la pregunta seleccionada. Estos elementos se usarán para hacer la búsqueda bibliográfica. </span></li><li><span>Selección de 4 artículos científicos recientes (después de 2010) sobre la pregunta. Anota su DOI o la URL para descargarlos.</span></li><li><span>Selección de al menos 1 artículo o informe no científico sobre la pregunta.</span></li><li><span>Extracción de contenido relevante del material anterior. Se pueden pegar fragmentos literales de los artículos seleccionados.</span></li><li><span>Conclusiones. Elabora un texto que responda a la pregunta inicial en función de la información extraida de los artículos.</span></li></ul></li><li><p><span>Para realizar el ejercicio nos dividimos en grupos de 3-4 personas. En total se crean 6 grupos.</span></p></li><li><p><span>Para buscar artículos científicos se recomienda utilizar el buscador de Web of Science (</span><a href='https://login.webofknowledge.com/'><span>WoS</span></a><span>), aunque también es válido usar cualquier otro. El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis </span><a href='https://es.wikipedia.org/wiki/Sci-Hub'><span>Sci-Hub...</span></a><span>). Para conectar a la red UCO hay dos opciones:</span></p><ul><li><span>Configurar un acceso vía VPN desde vuestro ordenador. </span><a href='http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn'><span>Aquí</span></a><span> tenéis las instrucciones.</span></li><li><span>Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. </span><a href='https://citrix.uco.es/'><span>Aquí</span></a><span> tenéis la dirección de acceso. Entrad con vuestro usuario UCO y seguid las instrucciones.</span></li></ul></li></ul></li></ul><p>&nbsp;</p><h2 id='resultados'><span>Resultados</span></h2><p><span>Tanto el GM-1 como el GM-2 hicieron un estupendo trabajo identificando artículos y extrayendo información de los mismos. Quizás nos faltó algo de tiempo para terminar de elaborar las conclusiones. </span></p><p><span>Los siguientes enlaces muestran los documentos de Gdrive en los que trabajó cada grupo. Están accesibles en modo comentarios. Es decir, solo podéis hacer comentarios y sugerencias. He puesto comentarios a vuestros trabajos. Responded a dichos comentarios os ayudará a fijar el conocimiento adquirido en esta práctica. Este ejercicio no es calificable:</span></p><ul><li><p><span>GM-2:</span></p><ul><li><a href='https://docs.google.com/document/d/1xiliC4htYuamxOhpQMXbP1ayRFIqkN-BlQRpCCw9Upo/edit?usp=sharing'><span>Grupo 1. Efecto de los ENPs</span></a></li><li><a href='https://docs.google.com/document/d/1NiJ6QjzMIIzj0vml4Jpoki9DHD2MFA4UcWUW7ghrfY8/edit?usp=sharing'><span>Grupo 2. Efecto de los ENPs.</span></a></li><li><a href='https://docs.google.com/document/d/1ccDEvgsbyi_q6Ed2EfqciEh_khnyPhgBMloaCZ3OFjw/edit?usp=sharing'><span>Grupo 3. Reforestación.</span></a></li><li><a href='https://docs.google.com/document/d/1ftOJ--uBHKMUtN5Atih2czQ-4i545YTVON9ncCyhYow/edit?usp=sharing'><span>Grupo 4. Efecto de los ENPs.</span></a></li><li><a href='https://docs.google.com/document/d/1Z_tsZ9TQa8WyCCZ6VdutYkYN98SZ8Nf0to9KUgecVTs/edit?usp=sharing'><span>Grupo 5. Reforestación.</span></a></li><li><a href='https://docs.google.com/document/d/12_eFHlxGXf6lKZScRWrg54a-IDiQqFF2oddQFVPqB14/edit?usp=sharing'><span>Grupo 6. Osos polares.</span></a></li></ul></li></ul><p>&nbsp;</p><p><span>Los siguientes vídeos muestran la grabación de las sesiones en ambos grupos medianos:</span></p><p><span>GM-1</span></p><iframe width="560" height="315" src="https://www.youtube.com/embed/cplU5RO109k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p><span>GM-2</span></p><iframe width="560" height="315" src="https://www.youtube.com/embed/lSsk_BepraI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div></div>
 </body>
 </html>

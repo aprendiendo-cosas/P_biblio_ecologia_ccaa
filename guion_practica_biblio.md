@@ -23,10 +23,10 @@ Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes 
 
  ## Contenidos
 En esta sesión se suministra el siguiente material a los estudiantes:
-+ Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/995ff91a5e506afd3e37acbd79d4e59d4d8d5e1c/presentacion/bibliografia.html) enlace. 
++ Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2263ff2fca10c19fa62d8f2c952f3776d1ebb8a6/presentacion/bibliografia.html) enlace. 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/995ff91a5e506afd3e37acbd79d4e59d4d8d5e1c/presentacion/bibliografia.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2263ff2fca10c19fa62d8f2c952f3776d1ebb8a6/presentacion/bibliografia.html"
   style="width:100%; height:450px;"
 ></iframe>
 
@@ -35,7 +35,7 @@ En esta sesión se suministra el siguiente material a los estudiantes:
   + Se plantean tres preguntas complejas para cuya respuesta debemos recurrir a buscar bibliografía en internet. Son las siguientes:
     + ¿Son útiles los espacios protegidos para frenar la pérdida de biodiversidad?
     + ¿Están sufriendo los osos polares un declive poblacional provocado por la reducción del hielo ártico?
-    + ¿Es la reforestación masiva una herramienta útil para reducir el impacto del cambio climático?
+    + ¿Es la reforestación una herramienta útil para reducir el impacto del cambio climático?
   + Abordamos las preguntas anteriores completando [esta](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/ejercicio/plantilla.docx) plantilla que contiene los siguientes apartados:
     + Identifica los elementos clave de la pregunta seleccionada. Estos elementos se usarán para hacer la búsqueda bibliográfica. 
     + Selección de 4 artículos científicos recientes (después de 2010) sobre la pregunta. Anota su DOI o la URL para descargarlos.
@@ -52,3 +52,11 @@ En esta sesión se suministra el siguiente material a los estudiantes:
 ## Resultados
 
 Aquí pondré los resultados obtenidos una vez que hagamos la práctica.
+
+
+
+
+
+## Evaluación de la sesión según los estudiantes
+
+Aquí pondré los resultados de [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. 

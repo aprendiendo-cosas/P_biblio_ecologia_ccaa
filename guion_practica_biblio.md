@@ -23,10 +23,10 @@ Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes 
 
  ## Contenidos
 En esta sesión se suministra el siguiente material a los estudiantes:
-+ Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/presentacion/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021-2022/presentacion/bibliografia.html) enlace. 
++ Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/presentacion/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/presentacion/bibliografia.html) enlace. 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021-2022/presentacion/bibliografia.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/presentacion/bibliografia.html"
   style="width:100%; height:450px;"
 ></iframe>
 
@@ -36,7 +36,7 @@ En esta sesión se suministra el siguiente material a los estudiantes:
     + ¿Son útiles los espacios protegidos para frenar la pérdida de biodiversidad?
     + ¿Están sufriendo los osos polares un declive poblacional provocado por la reducción del hielo ártico?
     + ¿Es la reforestación una herramienta útil para reducir el impacto del cambio climático?
-  + Abordamos las preguntas anteriores completando [esta](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/plantilla.docx) plantilla que contiene los siguientes apartados:
+  + Abordamos las preguntas anteriores completando [esta](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/plantilla.docx) plantilla que contiene los siguientes apartados:
     + Identifica los elementos clave de la pregunta seleccionada. Estos elementos se usarán para hacer la búsqueda bibliográfica. 
     + Selección de 4 artículos científicos recientes (después de 2010) sobre la pregunta. Anota su DOI o la URL para descargarlos.
     + Selección de al menos 1 artículo o informe no científico sobre la pregunta.
@@ -68,21 +68,21 @@ Tras leer con detalle todos los documentos que habéis entregado, tengo las sigu
 De manera más específica, os paso a continuación los trabajos que habéis entregado con comentarios. Espero que os sean de utilidad:
 
 + GM1:
-  + [Daniel Gálvez Carmona, Adrián Campos Herencia y Francisco Solano Espejo Aguilar.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/ENPs_daniel_adrian_paco.docx)
-  + [Helena Hernández Martín y Raquel Igeño Burguillos.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/Osos_Helena_Raquel.docx)
-  + [Jesús Estepa y Jesús Jiménez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/osos_jesuses.docx)
-  + [Luz Fernández Cid, Jesús Delgado Fernández y Javier Borrero Díaz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/osos_luz_jesus_javier.docx)
-  + [José María García Tabas, Adrián Luque García y Alfonso Sánchez Alcántara.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/reforestacion_jose_maria_adrian_alfonso.docx)
-  + [María Soto Ortiz y Marta Díaz Miñana.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/reforestacion_maria_marta.docx)
+  + [Daniel Gálvez Carmona, Adrián Campos Herencia y Francisco Solano Espejo Aguilar.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/ENPs_daniel_adrian_paco.docx)
+  + [Helena Hernández Martín y Raquel Igeño Burguillos.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/Osos_Helena_Raquel.docx)
+  + [Jesús Estepa y Jesús Jiménez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/osos_jesuses.docx)
+  + [Luz Fernández Cid, Jesús Delgado Fernández y Javier Borrero Díaz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/osos_luz_jesus_javier.docx)
+  + [José María García Tabas, Adrián Luque García y Alfonso Sánchez Alcántara.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/reforestacion_jose_maria_adrian_alfonso.docx)
+  + [María Soto Ortiz y Marta Díaz Miñana.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/reforestacion_maria_marta.docx)
 + GM2:
-  + [José Raúl Raya Castillo, Víctor Macías Molina y Laura Rodríguez Ruz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/ENPs_jose_Victor_laura.docx)
-  + [Natalia Martín Navarro, María Prados Barbero, Numidia Mohamed Atrari.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/Osos_Natalia_Numidia_Maria.docx)
-  + [Pablo Pino Poyatos y Natalia Montaño Gómez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/Osos_Pablo_Natalia.odt)
-  + [Diego Saborido Romero, Esteban Luque Pérez-Vico y Eva Puelles Sánchez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/Reforestacion_Diego_Eva_Esteban.docx)
+  + [José Raúl Raya Castillo, Víctor Macías Molina y Laura Rodríguez Ruz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/ENPs_jose_Victor_laura.docx)
+  + [Natalia Martín Navarro, María Prados Barbero, Numidia Mohamed Atrari.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/Osos_Natalia_Numidia_Maria.docx)
+  + [Pablo Pino Poyatos y Natalia Montaño Gómez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/Osos_Pablo_Natalia.odt)
+  + [Diego Saborido Romero, Esteban Luque Pérez-Vico y Eva Puelles Sánchez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/Reforestacion_Diego_Eva_Esteban.docx)
 + GM3:
-  + [Manuel Salas Crespo, José Antonio Pulgarín Gámez y Mª Ángeles Sánchez Heredia.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM3/osos_manuel_joseantonio_mangeles.docx)
-  + [José Miguel Tamaral Baena, Caroline Davock, Eduardo Torres Franco.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM3/reforestacion_caroline_eduardo_josemiguel.docx)
-  + [José Ignacio Sánchez Abad, Giulia Loporchio](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM3/enps_nacho_giulia.docx)
+  + [Manuel Salas Crespo, José Antonio Pulgarín Gámez y Mª Ángeles Sánchez Heredia.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM3/osos_manuel_joseantonio_mangeles.docx)
+  + [José Miguel Tamaral Baena, Caroline Davock, Eduardo Torres Franco.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM3/reforestacion_caroline_eduardo_josemiguel.docx)
+  + [José Ignacio Sánchez Abad, Giulia Loporchio](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM3/enps_nacho_giulia.docx)
 
 
 
@@ -94,9 +94,9 @@ Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.googl
 
 
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021---2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021---2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
 
 
 

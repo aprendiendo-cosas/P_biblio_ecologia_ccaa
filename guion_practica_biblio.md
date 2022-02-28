@@ -68,21 +68,21 @@ Tras leer con detalle todos los documentos que habéis entregado, tengo las sigu
 De manera más específica, os paso a continuación los trabajos que habéis entregado con comentarios. Espero que os sean de utilidad:
 
 + GM1:
-  + Daniel Gálvez Carmona, Adrián Campos Herencia y Francisco Solano Espejo Aguilar.
-  + Helena Hernández Martín y Raquel Igeño Burguillos.
-  + Jesús Estepa y Jesús Jiménez.
-  + Luz Fernández Cid, Jesús Delgado Fernández y Javier Borrero Díaz.
-  + José María García Tabas, Adrián Luque García y Alfonso Sánchez Alcántara.
-  + María Soto Ortiz y Marta Díaz Miñana.
+  + [Daniel Gálvez Carmona, Adrián Campos Herencia y Francisco Solano Espejo Aguilar.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/ENPs_daniel_adrian_paco.docx)
+  + [Helena Hernández Martín y Raquel Igeño Burguillos.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/Osos_Helena_Raquel.docx)
+  + [Jesús Estepa y Jesús Jiménez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/osos_jesuses.docx)
+  + [Luz Fernández Cid, Jesús Delgado Fernández y Javier Borrero Díaz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/osos_luz_jesus_javier.docx)
+  + [José María García Tabas, Adrián Luque García y Alfonso Sánchez Alcántara.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/reforestacion_jose_maria_adrian_alfonso.docx)
+  + [María Soto Ortiz y Marta Díaz Miñana.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM1/reforestacion_maria_marta.docx)
 + GM2:
-  + José Raúl Raya Castillo, Víctor Macías Molina y Laura Rodríguez Ruz.
-  + Natalia Martín Navarro, María Prados Barbero, Numidia Mohamed Atrari.
-  + Pablo Pino Poyatos y Natalia Montaño Gómez.
-  + Diego Saborido Romero, Esteban Luque Pérez-Vico y Eva Puelles Sánchez.
+  + [José Raúl Raya Castillo, Víctor Macías Molina y Laura Rodríguez Ruz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/ENPs_jose_Victor_laura.docx)
+  + [Natalia Martín Navarro, María Prados Barbero, Numidia Mohamed Atrari.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/Osos_Natalia_Numidia_Maria.docx)
+  + [Pablo Pino Poyatos y Natalia Montaño Gómez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/Osos_Pablo_Natalia.odt)
+  + [Diego Saborido Romero, Esteban Luque Pérez-Vico y Eva Puelles Sánchez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM2/Reforestacion_Diego_Eva_Esteban.docx)
 + GM3:
-  + Manuel Salas Crespo, José Antonio Pulgarín Gámez y Mª Ángeles Sánchez Heredia.
-  + José Miguel Tamaral Baena, Caroline Davock, Eduardo Torres Franco.
-  + FALTA BAJAR DEL MOODLE EL DE GUILIA
+  + [Manuel Salas Crespo, José Antonio Pulgarín Gámez y Mª Ángeles Sánchez Heredia.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM3/osos_manuel_joseantonio_mangeles.docx)
+  + [José Miguel Tamaral Baena, Caroline Davock, Eduardo Torres Franco.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM3/reforestacion_caroline_eduardo_josemiguel.docx)
+  + [José Ignacio Sánchez Abad, Giulia Loporchio](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021-2022/ejercicio/GM3/enps_nacho_giulia.docx)
 
 
 

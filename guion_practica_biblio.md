@@ -1,4 +1,4 @@
-# Guión de la práctica denominada "Búsqueda y análisis de bibliografía científica"
+# Guión de la práctica denominada "Algunas pistas para no sucumbir en el mar de información en el que navegamos..."
 
 
 > + **_Versión_**: 2022-2023
@@ -42,7 +42,19 @@ Usaremos una situación de aprendizaje para realizar esta práctica. Las situaci
 
 
 
-En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y aquí puedes descargar una transcripción literal del mismo en formato Word. 
+En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. Debe de ser algo parecido a lo que ves en la siguiente imagen. 
+
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:80%;" />
+
+ Al final de la práctica (que tiene dos sesiones) deberás de subir [aquí](https://www.turnitin.com/t_submit.asp?r=63.1753579999391&svr=35&lang=en_us&aid=132048877) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :)
+
+Si al leer esto te ha parecido que esta práctica es muy compleja y que no sabes hacerla, estás en lo cierto. Pero estamos aquí para aprender y para mejorar, así que vamos a ello. 
+
+
+
+
+
+
 
 
 

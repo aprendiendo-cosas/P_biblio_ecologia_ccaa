@@ -70,13 +70,11 @@ Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
 
 ## Acceso al conocimiento científico
 
-El título de esta sección es muy presuntuoso. En realidad el de la práctica también lo es. Veremos algunas pinceladas sobre cómo acceder al conocimiento disponible. Más bien os daré algunos hilos de los que tirar para aprender más. Para ello nos basaremos en los siguientes elementos
-
-
+El título de esta sección es muy presuntuoso. En realidad el de la práctica también lo es. Veremos algunas pinceladas sobre cómo acceder al conocimiento disponible. Más bien os daré algunos hilos de los que tirar para aprender más. Para ello nos basaremos en los siguientes elementos:
 
 #### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/caracteristicas_informacion_cientifica.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/publicaciones.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html) enlace. 
 
 
 <iframe
@@ -86,59 +84,23 @@ La característica estructural básica de la información científica es que se 
 
 #### Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. Este mapa mental describe alguna de las formas de acceder a literatura científica. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/acceso_conocimiento..html) enlace. 
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/acceso_conocimiento..xmind) mapa mental describe alguna de las formas de acceder a literatura científica. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/acceso_conocimiento.html) enlace. 
 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/acceso_conocimiento.html"
   style="width:100%; height:450px;"
 ></iframe>
+Para buscar artículos científicos se recomienda utilizar el buscador de Web of Science ([WoS](https://login.webofknowledge.com/)), aunque también es válido usar cualquier otro. El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
+
++ Configurar un acceso vía VPN desde vuestro ordenador. [Aquí](http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn) tenéis las instrucciones.
++ Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. [Aquí](https://www.uco.es/servicios/informatica/novedades/185-acceso-remoto-a-los-escritorios) tenéis las instrucciones de acceso.
 
 
 
+#### Gestores de bibliografía
 
-
-
-
-+ Cómo guardamos los artículos científicos
-
-
-
-
-
-
-
-## Cronología de la práctica y pasos a dar
-
-A lo largo de las cuatro horas que tenemos daremos los siguientes pasos:
-
-+ Leer este guión. **10'**
-+ Leer por primera vez el artículo que te envió tu tía Bea. **10'**
-+ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-## Gestores de bibliografía
-
-Durante la realización de las prácticas surgió una conversación sobre las herramientas informáticas que nos permiten gestionar bibliografía. Estas herramientas serán muy útiles en vuestro trabajo diario y más aún cuando estéis haciendo el TFG. Por eso, a continuación os paso algo de información para que os familiaricéis con la idea:
+Ante la gran cantidad de publicaciones disponibles se hace necesario utilizar aplicaciones informáticas que nos permiten gestionar bibliografía. Estas herramientas serán muy útiles en vuestro trabajo diario y más aún cuando estéis haciendo el TFG. Por eso, a continuación os paso algo de información para que os familiaricéis con la idea:
 
 + [Guía de la UCO sobre gestores de bibliografía.](https://biblioguias.uco.es/gestores)
 + [Vídeo resumiendo las ideas principales de los gestores de bibliografía.](https://www.youtube.com/watch?v=irhO95TOdY0)
@@ -146,8 +108,26 @@ Durante la realización de las prácticas surgió una conversación sobre las he
 
 
 
+## Cronología de la práctica y pasos a dar
+
+A lo largo de las cuatro horas que tenemos daremos los siguientes pasos:
+
++ Día 1:
+  + Descripción de los objetivos de la práctica y de los contenidos del guión. **50'**
+  + Leer por primera vez el artículo que te envió tu tía Bea. **10'**
+  + Búsqueda de artículos científicos relevantes usando [*Web of Science*](https://www.webofscience.com/wos/woscc/basic-search). **20'**
+  + Búsqueda de información usando [*ChatGPT*](https://chat.openai.com/chat). **10'**
+  + Búsqueda de información usando [*Elicit*](https://elicit.org/). **10'**
+  + Búsqueda de información usando [*Perplexity*](https://www.perplexity.ai/). **10'**
+
++ Día 2: **110'**
+  + Lectura en profundidad del artículo que vamos a comentar.
+  + Identificación de frases o párrafos que puedan contener sesgos.
+  + Identificar los sesgos.
+  + Buscar información científica para constrastar los sesgos anteriores usando las herramientas vistas el día anterior.
+  + Añadir comentarios al artículo principal.
+  + Entregar tarea.
 
 
+Durante el desarrollo de la práctica os animo a que trabajéis juntos. Preguntaros cosas entre vosotros y tratad de ayudar al compañero. Podéis hacer grupos y dividiros el trabajo. Compartir artículos y reflexiones. Pero la entrega de esta actividad es individual. 
 
-
-+ 

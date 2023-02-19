@@ -10,7 +10,7 @@
 
 ## Objetivos 
 
-Esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: cómo navegar en el proceloso mar de información en el que se ha convertido internet. La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente. La gran complejidad de los sistemas que estudiamos, junto con la enorme incertidumbre de nuestro conocimiento sobre los mismos, se presta a interpretaciones sesgadas sobre su dinámica. Esta finalidad (deliberadamente ambigua) se concreta en los siguientes objetivos:
+Esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: cómo navegar en el proceloso mar de información en el que se ha convertido internet. La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente (Oteros Rozas, E. 2022). La gran complejidad de los sistemas que estudiamos, junto con la enorme incertidumbre de nuestro conocimiento sobre los mismos, se presta a interpretaciones sesgadas sobre su dinámica. Esta finalidad (deliberadamente ambigua) se concreta en los siguientes objetivos:
 
 + Instrumentales (también llamados competenciales): Están relacionados con la adquisición de competencias en el manejo de herramientas potencialmente útiles en ecología y en otros ámbitos:
    + Aprender a buscar literatura científica.
@@ -44,11 +44,27 @@ Usaremos una situación de aprendizaje para realizar esta práctica. Las situaci
 
 En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. Debe de ser algo parecido a lo que ves en la siguiente imagen. 
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:80%;" />
 
- Al final de la práctica (que tiene dos sesiones) deberás de subir [aquí](https://www.turnitin.com/t_submit.asp?r=63.1753579999391&svr=35&lang=en_us&aid=132048877) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :)
+
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:100%;" />
+
+
+
+Al final de la práctica (que tiene dos sesiones) deberás de subir [aquí](https://www.turnitin.com/t_submit.asp?r=63.1753579999391&svr=35&lang=en_us&aid=132048877) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. La evaluación de tu desempeño en esta actividad se realizará a través de una rúbrica que está disponible en la página de entrega. La rúbrica aparece al hacer click en un icono con muchos cuadraditos pequeños, bajo el campo llamado "información".
 
 Si al leer esto te ha parecido que esta práctica es muy compleja y que no sabes hacerla, estás en lo cierto. Pero estamos aquí para aprender y para mejorar, así que vamos a ello. 
+
+Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
+
++ Un marco conceptual bajo el cual interpretar lo que dice el artículo para mejorarlo, cuestionarlo, apoyarlo... Los marcos conceptuales son como filtros a través de los cuales vemos la realidad. Nos permiten dar estructura a los diálogos y a los comentarios. En lugar de decir "tal cosa es incorrecta por la razón X", decimos "a la luz del marco conceptual X, esta afirmación incurre en el error de tipo Z". En nuestro caso, debido a la naturaleza del artículo a comentar, usaremos el marco conceptual de los sesgos cognitivos. Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si tú eres una persona con una opinión formada sobre el asunto, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si piensas lo contrario, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos.
+
+
+
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/sesgos.jpg" alt="image" style="zoom:80%;" />
+
+
+
+
 
 
 

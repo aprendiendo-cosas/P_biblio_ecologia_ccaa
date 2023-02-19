@@ -1,16 +1,16 @@
 # Guión de la práctica denominada "Búsqueda y análisis de bibliografía científica"
 
 
-> + **_Versión_**: v.2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**:  3 horas.
+> + **_Duración_**:  2 sesiones de 2 horas cada una.
 
 
 
 ## Objetivos 
 
-Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes objetivos:
+Esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: cómo navegar en el proceloso mar de información en el que se ha convertido internet. La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente. La gran complejidad de los sistemas que estudiamos, junto con la enorme incertidumbre de nuestro conocimiento sobre los mismos, se presta a interpretaciones sesgadas sobre su dinámica. Esta finalidad (deliberadamente ambigua) se concreta en los siguientes objetivos:
 
 + Instrumentales (también llamados competenciales): Están relacionados con la adquisición de competencias en el manejo de herramientas potencialmente útiles en ecología y en otros ámbitos:
    + Aprender a buscar literatura científica.
@@ -18,11 +18,42 @@ Se trata de la primera sesión práctica de la asignatura. Tiene los siguientes 
    + Aprender la estructura de un artículo científico.
    + Usar buscadores de bibliografía científica digital.
    + Saber distinguir la literatura científica de la periodística y de la de opinión. 
+   + Identificar sesgos cognitivos en un texto escrito.
+   + Iniciar el aprendizaje del uso de herramientas de inteligencia artificial generativa. 
 + Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología.
-   + Responder a una serie de preguntas buscando bibliografía sobre las mismas.
+   + Entender mejor el impacto de la actividad humana sobre los procesos de extinción de especies. 
+
+Para ser la primera práctica tiene unos objetivos ambiciosos... Veamos cómo vamos a cumplirlos:
 
  ## Contenidos
-En esta sesión se suministra el siguiente material a los estudiantes:
+Usaremos una situación de aprendizaje para realizar esta práctica. Las situaciones de aprendizaje son entornos o contextos que se pueden dar en la realidad y que promueven el aprendizaje de ciertas competencias o habilidades. Es decir, son "proyectos"  que anclan el aprendizaje adquirido a situaciones de la vida real. En esta práctica se usa la siguiente situación de aprendizaje:
+
+> A tu tía Beatriz le encanta leer revistas de actualidad. Está al corriente de todos los temas sociopolíticos de España y del mundo. De vez en cuando te envía por Whatsapp artículos relacionados con el medio ambiente. Ayer te envió estos mensajes:
+
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/tiabea.jpg" alt="image" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/presentacion/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/presentacion/bibliografia.html) enlace. 
 
 <iframe

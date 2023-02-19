@@ -25,14 +25,24 @@ Esta es la primera práctica de la asignatura. También es, quizás, la más com
 
 Para ser la primera práctica tiene unos objetivos ambiciosos... Veamos cómo vamos a cumplirlos:
 
+
+
  ## Contenidos
+
 Usaremos una situación de aprendizaje para realizar esta práctica. Las situaciones de aprendizaje son entornos o contextos que se pueden dar en la realidad y que promueven el aprendizaje de ciertas competencias o habilidades. Es decir, son "proyectos"  que anclan el aprendizaje adquirido a situaciones de la vida real. En esta práctica se usa la siguiente situación de aprendizaje:
 
 > A tu tía Beatriz le encanta leer revistas de actualidad. Está al corriente de todos los temas sociopolíticos de España y del mundo. De vez en cuando te envía por Whatsapp artículos relacionados con el medio ambiente. Ayer te envió estos mensajes:
+>
+> 
+>
+> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/tiabea.jpg" alt="image" style="zoom:80%;" />
+>
+> Tienes que darle una respuesta a tu tía. Una realmente convicente. Bien apoyando lo que dice el artículo o bien refutándolo con argumentos y evidencias (no opiniones).
+> 
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/tiabea.jpg" alt="image" style="zoom:50%;" />
 
 
+En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y aquí puedes descargar una transcripción literal del mismo en formato Word. 
 
 
 

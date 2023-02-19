@@ -74,12 +74,23 @@ El título de esta sección es muy presuntuoso. En realidad el de la práctica t
 
 
 
-### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
+#### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/caracteristicas_informacion_cientifica.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/bibliografia.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/caracteristicas_informacion_cientifica.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html) enlace. 
+
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
+  style="width:100%; height:450px;"
+></iframe>
+
+#### Formas de acceder al conocimiento científico
+
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. Este mapa mental describe alguna de las formas de acceder a literatura científica. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/acceso_conocimiento..html) enlace. 
+
+
+<iframe
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
   style="width:100%; height:450px;"
 ></iframe>
 
@@ -89,12 +100,6 @@ La característica estructural básica de la información científica es que se 
 
 
 
-
-
-
-+ Cómo accedemos al conocimiento:
-  + Buscadores de bibliografía que ofrecen artículos.
-  + Inteligencias artificiales que ofrecen respuestas elaboradas a preguntas complejas
 + Cómo guardamos los artículos científicos
 
 

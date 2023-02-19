@@ -27,7 +27,7 @@ Para ser la primera práctica tiene unos objetivos ambiciosos... Veamos cómo va
 
 
 
- ## Contenidos
+## Hilo argumental
 
 Usaremos una situación de aprendizaje para realizar esta práctica. Las situaciones de aprendizaje son entornos o contextos que se pueden dar en la realidad y que promueven el aprendizaje de ciertas competencias o habilidades. Es decir, son "proyectos"  que anclan el aprendizaje adquirido a situaciones de la vida real. En esta práctica se usa la siguiente situación de aprendizaje:
 
@@ -35,7 +35,7 @@ Usaremos una situación de aprendizaje para realizar esta práctica. Las situaci
 >
 > 
 >
-> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/tiabea.jpg" alt="image" style="zoom:80%;" />
+> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/tiabea.jpg" alt="image" style="zoom:70%;" />
 >
 > Tienes que darle una respuesta a tu tía. Una realmente convicente. Bien apoyando lo que dice el artículo o bien refutándolo con argumentos y evidencias (no opiniones).
 > 
@@ -56,65 +56,80 @@ Si al leer esto te ha parecido que esta práctica es muy compleja y que no sabes
 
 Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
 
-+ Un marco conceptual bajo el cual interpretar lo que dice el artículo para mejorarlo, cuestionarlo, apoyarlo... Los marcos conceptuales son como filtros a través de los cuales vemos la realidad. Nos permiten dar estructura a los diálogos y a los comentarios. En lugar de decir "tal cosa es incorrecta por la razón X", decimos "a la luz del marco conceptual X, esta afirmación incurre en el error de tipo Z". En nuestro caso, debido a la naturaleza del artículo a comentar, usaremos el marco conceptual de los sesgos cognitivos. Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si tú eres una persona con una opinión formada sobre el asunto, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si piensas lo contrario, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos.
++ Un marco conceptual bajo el cual interpretar lo que dice el artículo para mejorarlo, cuestionarlo, apoyarlo... Los marcos conceptuales son como filtros a través de los cuales vemos la realidad. Nos permiten dar estructura a los diálogos y a los comentarios. En lugar de decir "tal cosa es incorrecta por la razón X", decimos "a la luz del marco conceptual X, esta afirmación incurre en el error de tipo Z". En nuestro caso, debido a la naturaleza del artículo a comentar, usaremos el marco conceptual de los sesgos cognitivos. Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si tú eres una persona con una opinión formada sobre el asunto, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si piensas lo contrario, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos. La idea es que leas el texto con las gafas de los sesgos cognitivos y que identifiques frases que creas que son sesgadas. 
 
 
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/sesgos.jpg" alt="image" style="zoom:80%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
 
 
 
++ Información para documentar los sesgos. No es fácil identificar un sesgo si no tenemos información sobre "la verdad". Más difícil aún es identificar esa "verdad". En casos como el que nos ocupa (¿existe una extinción masiva de especies?), desconocemos partes importantes de la realidad. Así que tendremos que conformarnos con encontrar algunas evidencias que apoyen o desmientan las afirmaciones que hace el autor del texto. Para ello necesitamos acceder al conocimiento científico sobre el asunto en cuestión. Y aquí está el meollo conceptual de esta práctica: aprender a buscar y a analizar información científica (ver siguiente sección)
 
 
 
+## Acceso al conocimiento científico
+
+El título de esta sección es muy presuntuoso. En realidad el de la práctica también lo es. Veremos algunas pinceladas sobre cómo acceder al conocimiento disponible. Más bien os daré algunos hilos de los que tirar para aprender más. Para ello nos basaremos en los siguientes elementos
 
 
 
+### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-+ Explicación sobre la importancia de la bibliografía científica, tipos y formas de acceso. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/presentacion/busqueda_bibliografia.xmind) mapa mental contiene toda la información aportada. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/presentacion/bibliografia.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/caracteristicas_informacion_cientifica.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/bibliografia.html) enlace. 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/presentacion/bibliografia.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2021_2022/presentacion/publicaciones.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 
-+ Planteamiento de un ejercicio para poner en práctica lo comentado anteriormente:
-  + Se plantean tres preguntas complejas para cuya respuesta debemos recurrir a buscar bibliografía en internet. Son las siguientes:
-    + ¿Son útiles los espacios protegidos para frenar la pérdida de biodiversidad?
-    + ¿Están sufriendo los osos polares un declive poblacional provocado por la reducción del hielo ártico?
-    + ¿Es la reforestación una herramienta útil para reducir el impacto del cambio climático?
-  + Abordamos las preguntas anteriores completando [esta](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/plantilla.docx) plantilla que contiene los siguientes apartados:
-    + Identifica los elementos clave de la pregunta seleccionada. Estos elementos se usarán para hacer la búsqueda bibliográfica. 
-    + Selección de 4 artículos científicos recientes (después de 2010) sobre la pregunta. Anota su DOI o la URL para descargarlos.
-    + Selección de al menos 1 artículo o informe no científico sobre la pregunta.
-    + Extracción de contenido relevante del material anterior. Se pueden pegar fragmentos literales de los artículos seleccionados.
-    + Conclusiones. Elabora un texto que responda a la pregunta inicial en función de la información extraida de los artículos.
-  + Para realizar el ejercicio nos dividimos en grupos de 2-3 personas.
-  + Para buscar artículos científicos se recomienda utilizar el buscador de Web of Science ([WoS](https://login.webofknowledge.com/)), aunque también es válido usar cualquier otro. El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
-    + Configurar un acceso vía VPN desde vuestro ordenador. [Aquí](http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn) tenéis las instrucciones.
-    + Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. [Aquí](https://www.uco.es/servicios/informatica/novedades/185-acceso-remoto-a-los-escritorios) tenéis las instrucciones de acceso.
+
+
+
+
+
+
+
+
++ Cómo accedemos al conocimiento:
+  + Buscadores de bibliografía que ofrecen artículos.
+  + Inteligencias artificiales que ofrecen respuestas elaboradas a preguntas complejas
++ Cómo guardamos los artículos científicos
+
+
+
+
+
+
+
+## Cronología de la práctica y pasos a dar
+
+A lo largo de las cuatro horas que tenemos daremos los siguientes pasos:
+
++ Leer este guión. **10'**
++ Leer por primera vez el artículo que te envió tu tía Bea. **10'**
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 ## Gestores de bibliografía
 
@@ -126,53 +141,8 @@ Durante la realización de las prácticas surgió una conversación sobre las he
 
 
 
-## Resultados
-
-Tras leer con detalle todos los documentos que habéis entregado, tengo las siguientes impresiones generales que compartir con vosotros:
-
-+ En general creo que habéis hecho un gran trabajo. Os habéis enfrentado en muy poco tiempo a preguntas muy complejas. Así que, enhorabuena :)
-+ Los términos de búsqueda que habéis elegido están bastante bien en general. Quizás os ha faltado distinguir mejor los posibles campos que se usan: título, palabras clave, tópico, etc.
-+ Tengo la sensación de que la comparación entre los artículos científicos y los periodísticos os ha aportado un buen aprendizaje. Habéis distinguido bien entre estas dos fuentes de información. Tendréis que poner en práctica estos conocimientos porque en el examen y en otros ejercicios encontraréis artículos periodísticos y estaréis tentados a creer al pie de la letra lo que en ellos se dice.
-
-De manera más específica, os paso a continuación los trabajos que habéis entregado con comentarios. Espero que os sean de utilidad:
-
-+ GM1:
-  + [Daniel Gálvez Carmona, Adrián Campos Herencia y Francisco Solano Espejo Aguilar.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/ENPs_daniel_adrian_paco.docx)
-  + [Helena Hernández Martín y Raquel Igeño Burguillos.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/Osos_Helena_Raquel.docx)
-  + [Jesús Estepa y Jesús Jiménez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/osos_jesuses.docx)
-  + [Luz Fernández Cid, Jesús Delgado Fernández y Javier Borrero Díaz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/osos_luz_jesus_javier.docx)
-  + [José María García Tabas, Adrián Luque García y Alfonso Sánchez Alcántara.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/reforestacion_jose_maria_adrian_alfonso.docx)
-  + [María Soto Ortiz y Marta Díaz Miñana.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM1/reforestacion_maria_marta.docx)
-+ GM2:
-  + [José Raúl Raya Castillo, Víctor Macías Molina y Laura Rodríguez Ruz.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/ENPs_jose_Victor_laura.docx)
-  + [Natalia Martín Navarro, María Prados Barbero, Numidia Mohamed Atrari.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/Osos_Natalia_Numidia_Maria.docx)
-  + [Pablo Pino Poyatos y Natalia Montaño Gómez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/Osos_Pablo_Natalia.odt)
-  + [Diego Saborido Romero, Esteban Luque Pérez-Vico y Eva Puelles Sánchez.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM2/Reforestacion_Diego_Eva_Esteban.docx)
-+ GM3:
-  + [Manuel Salas Crespo, José Antonio Pulgarín Gámez y Mª Ángeles Sánchez Heredia.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM3/osos_manuel_joseantonio_mangeles.docx)
-  + [José Miguel Tamaral Baena, Caroline Davock, Eduardo Torres Franco.](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM3/reforestacion_caroline_eduardo_josemiguel.docx)
-  + [José Ignacio Sánchez Abad, Giulia Loporchio](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/ejercicio/GM3/enps_nacho_giulia.docx)
 
 
 
 
-
-## Evaluación de la sesión según los estudiantes
-
-Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
-
-
-
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
-
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2021_2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
-
-
-
-Además, algunos estudiantes hicieron los siguientes comentarios:
-
-+ Realmente dinámica, y útil para nuestro futuro; nada que objetar.
-+ Algo de más tiempo porque es una actividad larga
-+ La veo correcta. Se trabaja lo que se enseña.
-+ Planificar mejor el tiempo para ver las correcciones de la práctica en conjunto, indagar más en cómo realizar la práctica antes que ver la teoría de la práctica. Ej: Qué buscar y dónde en el propio artículo científico para ver si es apto o no, y cómo sintetizar las ideas claves de un artículo, antes que ver qué es un artículo o ver las revistas científicas, aunque aún así me ha parecido de interés la teoría también, no es desperdicio. 
-+ Más que una sugerencia lo siguiente es reconocer el trabajo del profesor en la primera sesión de las prácticas de Ecología. Se me hace muy interesante dar la clase mediante un esquema. Agradezco que el profesor haya dado importancia a la búsqueda bibliográfica, ya que aunque sea algo muy sencillo, a lo largo de estos dos años nunca se nos ha enseñado a hacerlo como se debe. 
++ 

@@ -68,7 +68,9 @@ Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
 
 
 
-[verdades]!
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/verdades.jpg" alt="image" style="zoom:50%;" />
+
+
 
 
 
@@ -135,3 +137,14 @@ A lo largo de las cuatro horas que tenemos daremos los siguientes pasos:
 
 Durante el desarrollo de la práctica os animo a que trabajéis juntos. Preguntaros cosas entre vosotros y tratad de ayudar al compañero. Podéis hacer grupos y dividiros el trabajo. Compartir artículos y reflexiones. Pero la entrega de esta actividad es individual. 
 
+
+
+## Resultados
+
++ Día 1: Tras leer el texto con atención, los estudiantes aportan las siguientes ideas:
+  + Algunos se sienten violentados porque el texto contradicen lo que creían sobre el tema. Es difícil saber si la opinión previa que tenían del asunto procede de evidencias científicas o de creencias. La mayoría de los estudiantes consideran que el texto está equivocado porque sí estamos ante un proceso de extinción masivo de especies. Pero les resulta difícil contraarumentar lo que se dice en el artículo.
+  + Solo una alumna dice que el texto le ha hecho cambiar de opinión. Siente que los argumentos aportados por el autor le han convencido. Ahora cree que "no es para tanto" y que no vivimos en un apocalipsis ecológico.
+  + Esta misma estudiante considera válido el argumento de que las especies que van desapareciendo se sustituyen por otras exóticas que llegan de otros territorios. Preguntamos a ChatGPT y a Perplexity por el impacto de la neobiota para "compensar" la pérdida de especies y no obtenemos respuestas concluyentes. Tenemos que encontrar artículos científicos sobre esto en la siguiente sesión.
+  + Algunos estudiantes identifican sesgos importantes en el texto: "el autor quiere convencernos de su visión del asunto. Para ello esconde algunos datos". Pero nadie puede identificar qué datos se han escondido...
+  
+  

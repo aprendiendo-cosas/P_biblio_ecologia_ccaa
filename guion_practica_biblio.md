@@ -64,7 +64,11 @@ Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
 
 
 
-+ Información para documentar los sesgos. No es fácil identificar un sesgo si no tenemos información sobre "la verdad". Más difícil aún es identificar esa "verdad". En casos como el que nos ocupa (¿existe una extinción masiva de especies?), desconocemos partes importantes de la realidad. Así que tendremos que conformarnos con encontrar algunas evidencias que apoyen o desmientan las afirmaciones que hace el autor del texto. Para ello necesitamos acceder al conocimiento científico sobre el asunto en cuestión. Y aquí está el meollo conceptual de esta práctica: aprender a buscar y a analizar información científica (ver siguiente sección)
++ Información para documentar los sesgos. No es fácil identificar un sesgo si no tenemos información sobre "la verdad". Más difícil aún es identificar esa "verdad". En casos como el que nos ocupa (¿existe una extinción masiva y catastrófica de especies?), desconocemos partes importantes de la realidad. Así que tendremos que conformarnos con encontrar algunas evidencias que apoyen o desmientan las afirmaciones que hace el autor del texto. Para ello necesitamos acceder al conocimiento científico sobre el asunto en cuestión. Y aquí está el meollo conceptual de esta práctica: aprender a buscar y a analizar información científica (ver siguiente sección). Además, la verdad absoluta es difícil de alcanzar. Muchas veces no existe como tal. La siguiente representación muestra bien (en mi opinión) la situación que estamos analizando.
+
+
+
+[verdades]!
 
 
 

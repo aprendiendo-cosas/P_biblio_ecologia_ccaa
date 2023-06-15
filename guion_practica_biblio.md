@@ -35,18 +35,18 @@ Usaremos una situación de aprendizaje para realizar esta práctica. Las situaci
 >
 > 
 >
-> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/tiabea.jpg" alt="image" style="zoom:70%;" />
+> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2022_2023/imagenes/tiabea.jpg" alt="image" style="zoom:70%;" />
 >
 > Tienes que darle una respuesta a tu tía. Una realmente convicente. Bien apoyando lo que dice el artículo o bien refutándolo con argumentos y evidencias (no opiniones).
 > 
 
 
 
-En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. Debe de ser algo parecido a lo que ves en la siguiente imagen. 
+En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2022_2023/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. Debe de ser algo parecido a lo que ves en la siguiente imagen. 
 
 
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:100%;" />
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2022_2023/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:100%;" />
 
 
 
@@ -60,7 +60,7 @@ Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2022_2023/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
 
 
 
@@ -68,7 +68,7 @@ Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/verdades.jpg" alt="image" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2022_2023/imagenes/verdades.jpg" alt="image" style="zoom:50%;" />
 
 
 
@@ -80,21 +80,21 @@ El título de esta sección es muy presuntuoso. En realidad el de la práctica t
 
 #### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/publicaciones.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2022_2023/presentacion/publicaciones.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2022_2023/presentacion/publicaciones.html) enlace. 
 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2022_2023/presentacion/publicaciones.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 #### Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/acceso_conocimiento..xmind) mapa mental describe alguna de las formas de acceder a literatura científica. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/acceso_conocimiento.html) enlace. 
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2022_2023/presentacion/acceso_conocimiento..xmind) mapa mental describe alguna de las formas de acceder a literatura científica. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2022_2023/presentacion/acceso_conocimiento.html) enlace. 
 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/acceso_conocimiento.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2022_2023/presentacion/acceso_conocimiento.html"
   style="width:100%; height:450px;"
 ></iframe>
 Para buscar artículos científicos se recomienda utilizar el buscador de Web of Science ([WoS](https://login.webofknowledge.com/)), aunque también es válido usar cualquier otro. El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
@@ -151,6 +151,6 @@ Durante el desarrollo de la práctica os animo a que trabajéis juntos. Pregunta
   + En algunos casos la dificultad está en identificar los sesgos. Pero la mayoría de los alumnos superan bien esta fase.
   + El problema está en justificar realmente por qué lo que ven es un sesgo. Al principio suelen creer que algo que no se ajusta a su opinión inicial es un sesgo. En realidad esto no es más que algo que va en contra de las creencias previas. Poco a poco vamos identificando sesgos con más eficacia.
   + El siguiente nivel de complejidad (superado por pocos alumnos) consiste en encontrar evidencias científicas que muestren que las frases etiquetadas inicialmente como sesgos lo son realmente. 
-  + Después de varios procesos de entrega-reentrega, recopilo en este documento las explicaciones de los estudiantes que más me han gustado. En el mencionado documento se etiquetan los sesgos como comentarios. Todos ellos tienen mi nombre, pero los autores reales son los estudiantes.
+  + Después de varios procesos de entrega-reentrega, recopilo en [este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2022_2023/presentacion/sintesis_no_apocalipsis.docx) documento las explicaciones de los estudiantes que más me han gustado. En el mencionado documento se etiquetan los sesgos como comentarios. Todos ellos tienen mi nombre, pero los autores reales son los estudiantes.
   
   

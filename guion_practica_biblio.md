@@ -146,5 +146,11 @@ Durante el desarrollo de la práctica os animo a que trabajéis juntos. Pregunta
   + Solo una alumna dice que el texto le ha hecho cambiar de opinión. Siente que los argumentos aportados por el autor le han convencido. Ahora cree que "no es para tanto" y que no vivimos en un apocalipsis ecológico.
   + Esta misma estudiante considera válido el argumento de que las especies que van desapareciendo se sustituyen por otras exóticas que llegan de otros territorios. Preguntamos a ChatGPT y a Perplexity por el impacto de la neobiota para "compensar" la pérdida de especies y no obtenemos respuestas concluyentes. Tenemos que encontrar artículos científicos sobre esto en la siguiente sesión.
   + Algunos estudiantes identifican sesgos importantes en el texto: "el autor quiere convencernos de su visión del asunto. Para ello esconde algunos datos". Pero nadie puede identificar qué datos se han escondido...
++ Día 2: Los estudiantes trabajan individualmente en la búsqueda de sesgos dentro del artículo. Como profesor identifico algunos patrones:
+  
+  + En algunos casos la dificultad está en identificar los sesgos. Pero la mayoría de los alumnos superan bien esta fase.
+  + El problema está en justificar realmente por qué lo que ven es un sesgo. Al principio suelen creer que algo que no se ajusta a su opinión inicial es un sesgo. En realidad esto no es más que algo que va en contra de las creencias previas. Poco a poco vamos identificando sesgos con más eficacia.
+  + El siguiente nivel de complejidad (superado por pocos alumnos) consiste en encontrar evidencias científicas que muestren que las frases etiquetadas inicialmente como sesgos lo son realmente. 
+  + Después de varios procesos de entrega-reentrega, recopilo en este documento las explicaciones de los estudiantes que más me han gustado. En el mencionado documento se etiquetan los sesgos como comentarios. Todos ellos tienen mi nombre, pero los autores reales son los estudiantes.
   
   

@@ -14,7 +14,11 @@ Esta es la primera práctica de la asignatura. También es, quizás, la más com
 + Cómo navegar en el proceloso mar de información en el que se ha convertido internet.
 + Cómo distinguir "la verdad" de la información incorrecta o falsa.
 
-La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente (Oteros Rozas, E. 2022). La gran complejidad de los sistemas que estudiamos, junto con la enorme incertidumbre de nuestro conocimiento sobre los mismos, se presta a interpretaciones sesgadas sobre su dinámica. Y resulta que a los humanos nos cuesta vivir en un contexto con incertidumbre. Por eso es muy común que, en temas ambientales, surjan opiniones muy enfrentadas que buscan una "verdad" absoluta. Lamentablemente esa verdad no suele existir. O al menos para llegar a ella se necesita recorrer un camino largo y tortuoso (ver imagen inferior)
+La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente (Oteros Rozas, E. 2022). La gran complejidad de los sistemas que estudiamos genera una gran incertidumbre a la hora de entender los procesos. Y resulta que a los humanos nos cuesta vivir en un contexto con incertidumbre. Por eso es muy común que, en temas ambientales, surjan opiniones muy enfrentadas que buscan una "verdad" absoluta. Estas opiniones suelen estar cargadas de sesgos. Como diría Yoda, 
+
+
+
+Lamentablemente esa verdad no suele existir. O al menos para llegar a ella se necesita recorrer un camino largo y tortuoso (ver imagen inferior)
 
 
 

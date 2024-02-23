@@ -62,17 +62,7 @@ Usaremos una situación de aprendizaje para realizar esta práctica. Las situaci
 
 
 
-En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. 
-
-Para identificar más fácilmente las afirmaciones que haya en el texto y que no se ajustan a la realidad o que no están adecuadamente contrastadas, usaremos el concepto de "sesgo cognitivo". Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si te consideras muy ecologista, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si estás en contra del catastrofismo ambiental, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos. La idea es que leas el texto con las gafas de los sesgos cognitivos y que identifiques frases que creas que son sesgadas. 
-
-
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
-
-
-
-Tras leer el texto e identificar algún sesgo (entre 2 y 5), tendremos que rebatirlo con argumentos sustentados en evidencias científicas. Por ejemplo, si en el texto dijera algo así: "es mentira que la actividad humana esté provocando la extinción de especies", tendremos que argumentar que esto no es cierto aportando artículos científicos o informes que muestren realmente el proceso de extinción de especies que estamos sufriendo. Con esa información haremos un comentario para cada frase que contenga un sesgo. La imagen de abajo muestra cómo debería de quedar documentado cada sesgo que identifiquemos.
+En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. Debe de ser algo parecido a lo que ves en la siguiente imagen. 
 
 
 
@@ -82,11 +72,13 @@ Tras leer el texto e identificar algún sesgo (entre 2 y 5), tendremos que rebat
 
 
 
+Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
+
++ Un marco conceptual bajo el cual interpretar lo que dice el artículo para mejorarlo, cuestionarlo, apoyarlo... Los marcos conceptuales son como filtros a través de los cuales vemos la realidad. Nos permiten dar estructura a los diálogos y a los comentarios. En lugar de decir "tal cosa es incorrecta por la razón X", decimos "a la luz del marco conceptual X, esta afirmación incurre en el error de tipo Z". En nuestro caso, debido a la naturaleza del artículo a comentar, usaremos el marco conceptual de los sesgos cognitivos. Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si tú eres una persona con una opinión formada sobre el asunto, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si piensas lo contrario, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos. La idea es que leas el texto con las gafas de los sesgos cognitivos y que identifiques frases que creas que son sesgadas. 
 
 
 
-
-
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
 
 
 

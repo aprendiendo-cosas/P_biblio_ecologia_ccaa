@@ -1,17 +1,25 @@
 # Guión de la práctica denominada "Algunas pistas para no sucumbir en el mar de información en el que navegamos..."
 
 
-> + **_Versión_**: 2022-2023
+> + **_Versión_**: 2023-2024
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**:  2 sesiones de 2 horas cada una.
+> + **_Duración_**:  1 sesión de 3 horas.
 
 
 
 ## Objetivos 
 
-Esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: cómo navegar en el proceloso mar de información en el que se ha convertido internet. La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente (Oteros Rozas, E. 2022). La gran complejidad de los sistemas que estudiamos, junto con la enorme incertidumbre de nuestro conocimiento sobre los mismos, se presta a interpretaciones sesgadas sobre su dinámica. Esta finalidad (deliberadamente ambigua) se concreta en los siguientes objetivos:
+Esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: 
++ Cómo navegar en el proceloso mar de información en el que se ha convertido internet.
++ Cómo distinguir "la verdad" de la información incorrecta o falsa.
 
+La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente (Oteros Rozas, E. 2022). La gran complejidad de los sistemas que estudiamos, junto con la enorme incertidumbre de nuestro conocimiento sobre los mismos, se presta a interpretaciones sesgadas sobre su dinámica. Y resulta que a los humanos nos cuesta vivir en un contexto con incertidumbre. Por eso es muy común que, en temas ambientales, surjan opiniones muy enfrentadas que buscan una "verdad" absoluta. Lamentablemente esa verdad no suele existir. O al menos para llegar a ella se necesita recorrer un camino largo y tortuoso.
+
+![complejidad]()
+
+
+Esta finalidad (deliberadamente ambigua) se concreta en los siguientes objetivos:
 + Instrumentales (también llamados competenciales): Están relacionados con la adquisición de competencias en el manejo de herramientas potencialmente útiles en ecología y en otros ámbitos:
    + Aprender a buscar literatura científica.
    + Conocer los distintos tipos de artículos científicos.

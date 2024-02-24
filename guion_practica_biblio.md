@@ -14,15 +14,23 @@ Esta es la primera práctica de la asignatura. También es, quizás, la más com
 + Cómo navegar en el proceloso mar de información en el que se ha convertido internet.
 + Cómo distinguir "la verdad" de la información incorrecta o falsa.
 
-La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente (Oteros Rozas, E. 2022). La gran complejidad de los sistemas que estudiamos genera una gran incertidumbre a la hora de entender los procesos. Y resulta que a los humanos nos cuesta vivir en un contexto con incertidumbre. Por eso es muy común que, en temas ambientales, surjan opiniones muy enfrentadas que buscan una "verdad" absoluta. Estas opiniones suelen estar cargadas de sesgos. Como diría Yoda, 
+La finalidad última de esta práctica es aportar al estudiante algunas herramientas que le ayuden a distinguir la opinión de la evidencia sin caer en demasiados sesgos cognitivos. Esto es especialmente importante en una disciplina como la ecología, en la que la respuesta "depende" es tan frecuente (Oteros Rozas, E. 2022). La gran complejidad de los sistemas que estudiamos genera una gran incertidumbre a la hora de entender los procesos. Y resulta que a los humanos nos cuesta vivir en un contexto con incertidumbre. Por eso es muy común que, en temas ambientales, surjan opiniones muy enfrentadas que buscan una "verdad" absoluta. Estas opiniones suelen estar cargadas de sesgos. Y de ahí al lado oscuro (=invadir un país o un parlamento) hay un paso (como diría Yoda): 
 
 
 
-Lamentablemente esa verdad no suele existir. O al menos para llegar a ella se necesita recorrer un camino largo y tortuoso (ver imagen inferior)
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/complejidad.jpg" alt="complejidad" style="zoom:90%;" />
+Lamentablemente la verdad en sentido estricto no existe (o no es fácil de encontrar). Para llegar a ella se necesita recorrer un camino largo y tortuoso (ver imágenes más abajo)
+
+
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
+
+
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
 
 
 
@@ -39,7 +47,7 @@ La finalidad descrita anteriormente (deliberadamente ambigua) se concreta en los
 + Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología.
    + Entender mejor el impacto de la actividad humana sobre los procesos de extinción de especies. 
 
-Podemos describir los objetivos anteriores gráficamente. El meme de abajo lo muestra bien (en mi opinión). Queremos ser el tipo de la izquierda. Queremos sostener nuestra visión del mundo en pensamientos racionales contrastables y no tanto en opiniones. O al menos queremos que nuestras opiniones sean nuestras y no se conviertan en instrumentos arrojadizos para estar en posesión de la razón.
+Podemos describir los objetivos anteriores gráficamente. El meme de abajo lo muestra bien (en mi opinión). Queremos ser el tipo de la izquierda. Queremos sostener nuestra visión del mundo en pensamientos racionales contrastables y no tanto en opiniones. O al menos queremos que nuestras opiniones no nos hagan creer que tenemos razón.
 
 
 
@@ -66,7 +74,19 @@ Usaremos una situación de aprendizaje para realizar esta práctica. Las situaci
 
 
 
-En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. Debe de ser algo parecido a lo que ves en la siguiente imagen. 
+En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. 
+
+Para identificar más fácilmente las afirmaciones que haya en el texto y que no se ajustan a la realidad o que no están adecuadamente contrastadas, usaremos el concepto de "sesgo cognitivo". Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si te consideras muy ecologista, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si estás en contra del catastrofismo ambiental, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos. La idea es que leas el texto con las gafas de los sesgos cognitivos y que identifiques frases que creas que son sesgadas. 
+
+
+
+
+
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
+
+
+
+Tras leer el texto e identificar algún sesgo (entre 2 y 5), tendremos que rebatirlo con argumentos sustentados en evidencias científicas. Por ejemplo, si en el texto dijera algo así: "es mentira que la actividad humana esté provocando la extinción de especies", tendremos que argumentar que esto no es cierto aportando artículos científicos o informes que muestren realmente el proceso de extinción de especies que estamos sufriendo. Con esa información haremos un comentario para cada frase que contenga un sesgo. La imagen de abajo muestra cómo debería de quedar documentado cada sesgo que identifiquemos.
 
 
 
@@ -74,48 +94,24 @@ En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologic
 
 
 
+Si completamos bien esta parte de la práctica, habremos identificado una serie de errores o de interpretaciones equivocadas en el texto que nos mando tu tía Bea. Pero esto no nos dará una respuesta clara y contundente sobre si en realidad estamos viviendo una extinción masiva de especies. Así que, en la segunda parte de la práctica trataremos de responder a esta pregunta: ¿existe en la actualidad una extinción masiva y catastrófica de especies? 
 
-
-Para que esta práctica funcione necesitamos, al menos, dos elementos clave:
-
-+ Un marco conceptual bajo el cual interpretar lo que dice el artículo para mejorarlo, cuestionarlo, apoyarlo... Los marcos conceptuales son como filtros a través de los cuales vemos la realidad. Nos permiten dar estructura a los diálogos y a los comentarios. En lugar de decir "tal cosa es incorrecta por la razón X", decimos "a la luz del marco conceptual X, esta afirmación incurre en el error de tipo Z". En nuestro caso, debido a la naturaleza del artículo a comentar, usaremos el marco conceptual de los sesgos cognitivos. Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si tú eres una persona con una opinión formada sobre el asunto, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si piensas lo contrario, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos. La idea es que leas el texto con las gafas de los sesgos cognitivos y que identifiques frases que creas que son sesgadas. 
-
-
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
-
-
-
-+ Información para documentar los sesgos. No es fácil identificar un sesgo si no tenemos información sobre "la verdad". Más difícil aún es identificar esa "verdad". En casos como el que nos ocupa (¿existe una extinción masiva y catastrófica de especies?), desconocemos partes importantes de la realidad. Así que tendremos que conformarnos con encontrar algunas evidencias que apoyen o desmientan las afirmaciones que hace el autor del texto. Para ello necesitamos acceder al conocimiento científico sobre el asunto en cuestión. Y aquí está el meollo conceptual de esta práctica: aprender a buscar y a analizar información científica (ver siguiente sección). Además, la verdad absoluta es difícil de alcanzar. Muchas veces no existe como tal. La siguiente representación muestra bien (en mi opinión) la situación que estamos analizando.
-
-
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/imagenes/verdades.jpg" alt="image" style="zoom:50%;" />
-
-
-
-
-
-Al final de la práctica (que tiene dos sesiones) deberás de subir [aquí](https://www.turnitin.com/t_submit.asp?r=63.1753579999391&svr=35&lang=en_us&aid=132048877) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. La evaluación de tu desempeño en esta actividad se realizará a través de una rúbrica que está disponible en la página de entrega. La rúbrica aparece al hacer click en un icono con muchos cuadraditos pequeños, bajo el campo llamado "información".
-
-Si al leer esto te ha parecido que esta práctica es muy compleja y que no sabes hacerla, estás en lo cierto. Pero estamos aquí para aprender y para mejorar, así que vamos a ello. 
-
-
+Para responder a las dos partes de este ejercicio necesitamos acceder al conocimiento científico sobre el asunto en cuestión. Y aquí está el meollo conceptual de esta práctica: aprender a buscar y a analizar información científica (ver siguiente sección). 
 
 
 
 ## Herramientas que usaremos en la práctica
 
-El título de esta sección es muy presuntuoso. En realidad el de la práctica también lo es. Veremos algunas pinceladas sobre cómo acceder al conocimiento disponible. Más bien os daré algunos hilos de los que tirar para aprender más. Para ello nos basaremos en los siguientes elementos:
+En esta sección describimos brevemente cómo se almacena el conocimiento científico y cómo se accede a él. Será la única sección que se explicará el día de la práctica. El resto del contenido (lo que hay más arriba de esto) se dará por leído y entendido.
 
 #### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.). [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/master/presentacion/publicaciones.xmind) mapa mental describe las características básicas de estos artículos. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/master/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/presentacion/publicaciones.html) enlace. 
 
 
 <iframe
   src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/presentacion/publicaciones.html"
-  style="width:100%; height:450px;"
+  style="width:100%; height:550px;"
 ></iframe>
 
 #### Formas de acceder al conocimiento científico
@@ -171,16 +167,14 @@ Durante el desarrollo de la práctica os animo a que trabajéis juntos. Pregunta
 
 ## Resultados
 
-+ Día 1: Tras leer el texto con atención, los estudiantes aportan las siguientes ideas:
-  + Algunos se sienten violentados porque el texto contradicen lo que creían sobre el tema. Es difícil saber si la opinión previa que tenían del asunto procede de evidencias científicas o de creencias. La mayoría de los estudiantes consideran que el texto está equivocado porque sí estamos ante un proceso de extinción masivo de especies. Pero les resulta difícil contraarumentar lo que se dice en el artículo.
-  + Solo una alumna dice que el texto le ha hecho cambiar de opinión. Siente que los argumentos aportados por el autor le han convencido. Ahora cree que "no es para tanto" y que no vivimos en un apocalipsis ecológico.
-  + Esta misma estudiante considera válido el argumento de que las especies que van desapareciendo se sustituyen por otras exóticas que llegan de otros territorios. Preguntamos a ChatGPT y a Perplexity por el impacto de la neobiota para "compensar" la pérdida de especies y no obtenemos respuestas concluyentes. Tenemos que encontrar artículos científicos sobre esto en la siguiente sesión.
-  + Algunos estudiantes identifican sesgos importantes en el texto: "el autor quiere convencernos de su visión del asunto. Para ello esconde algunos datos". Pero nadie puede identificar qué datos se han escondido...
-+ Día 2: Los estudiantes trabajan individualmente en la búsqueda de sesgos dentro del artículo. Como profesor identifico algunos patrones:
-  
-  + En algunos casos la dificultad está en identificar los sesgos. Pero la mayoría de los alumnos superan bien esta fase.
-  + El problema está en justificar realmente por qué lo que ven es un sesgo. Al principio suelen creer que algo que no se ajusta a su opinión inicial es un sesgo. En realidad esto no es más que algo que va en contra de las creencias previas. Poco a poco vamos identificando sesgos con más eficacia.
-  + El siguiente nivel de complejidad (superado por pocos alumnos) consiste en encontrar evidencias científicas que muestren que las frases etiquetadas inicialmente como sesgos lo son realmente. 
-  + Después de varios procesos de entrega-reentrega, recopilo en [este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/master/presentacion/sintesis_no_apocalipsis.docx) documento las explicaciones de los estudiantes que más me han gustado. En el mencionado documento se etiquetan los sesgos como comentarios. Todos ellos tienen mi nombre, pero los autores reales son los estudiantes.
-  
-  
+
+
+
+
+
+
+
+
+Al final de la práctica (que tiene dos sesiones) deberás de subir [aquí](https://www.turnitin.com/t_submit.asp?r=63.1753579999391&svr=35&lang=en_us&aid=132048877) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. La evaluación de tu desempeño en esta actividad se realizará a través de una rúbrica que está disponible en la página de entrega. La rúbrica aparece al hacer click en un icono con muchos cuadraditos pequeños, bajo el campo llamado "información".
+
+Si al leer esto te ha parecido que esta práctica es muy compleja y que no sabes hacerla, estás en lo cierto. Pero estamos aquí para aprender y para mejorar, así que vamos a ello. 

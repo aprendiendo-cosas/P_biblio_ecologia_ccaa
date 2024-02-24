@@ -110,7 +110,7 @@ La característica estructural básica de la información científica es que se 
 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
   style="width:100%; height:550px;"
 ></iframe>
 

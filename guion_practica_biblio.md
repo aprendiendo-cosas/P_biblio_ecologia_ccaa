@@ -111,70 +111,58 @@ La característica estructural básica de la información científica es que se 
 
 <iframe
   src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
-  style="width:100%; height:550px;"
+  style="width:100%; height:850px;"
 ></iframe>
+
 
 #### Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/master/presentacion/acceso_conocimiento..xmind) mapa mental describe alguna de las formas de acceder a literatura científica. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/presentacion/acceso_conocimiento.html) enlace. 
-
-
-<iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/presentacion/acceso_conocimiento.html"
-  style="width:100%; height:450px;"
-></iframe>
-Para buscar artículos científicos se recomienda utilizar el buscador de Web of Science ([WoS](https://login.webofknowledge.com/)), aunque también es válido usar cualquier otro. El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
-
-+ Configurar un acceso vía VPN desde vuestro ordenador. [Aquí](http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn) tenéis las instrucciones.
-+ Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. [Aquí](https://www.uco.es/servicios/informatica/novedades/185-acceso-remoto-a-los-escritorios) tenéis las instrucciones de acceso.
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos alguna de las siguientes herramientas:
 
 
 
-#### Gestores de bibliografía
++ Buscadores de bibliografía. Los artículos científicos son publicados por editoriales privadas que permiten su descarga (previo pago) a través de sus webs particulares. Pero a la vez hay webs que indexan todos los artículos que se van publicando y los ponen a disposición de los usuarios. Estos catálogos on line son la forma más habitual de buscar artículos científicos (y a veces informes) en internet. Ahí van algunos catálogos:
+  + [Google Scholar](https://scholar.google.es/) es un buscador con pocas opciones, pero que tiene la ventaja del algoritmo de búsqueda de Google.
+  + [Web of science](https://scholar.google.es/) es el buscador de literatura científica más potente. Tiene múltiples opciones de búsqueda. Pueden personalizarse y es posible exportar los resultados de una búsqueda compleja. 
+  + SciHub es un buscador de bibliografía científica que se encuentra al margen de la ley. Su fundadora Alexandra Elbakyan creó esta plataforma como una reacción al alto coste de compra de los artículos científicos. Para que os hagáis una idea, España se gasta cada año 25 millones de euros en revistas científicas. Las universidades y centros de investigación pagan este dineral para acceder a los artículos científicos que buena parte de los investigadores (también españoles) publican en las revistas... Esto son hechos y con ellos no pretendo yo animar a que uséis una herramienta ilegal como [SciHub](https://sci-hub.hkvisa.net/).
 
-Ante la gran cantidad de publicaciones disponibles se hace necesario utilizar aplicaciones informáticas que nos permiten gestionar bibliografía. Estas herramientas serán muy útiles en vuestro trabajo diario y más aún cuando estéis haciendo el TFG. Por eso, a continuación os paso algo de información para que os familiaricéis con la idea:
++ El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-	Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
+  + Configurar un acceso vía VPN desde vuestro ordenador. [Aquí](http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn) tenéis las instrucciones.
+  + Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. [Aquí](https://www.uco.es/servicios/informatica/novedades/185-acceso-remoto-a-los-escritorios) tenéis las instrucciones de acceso.
 
-+ [Guía de la UCO sobre gestores de bibliografía.](https://biblioguias.uco.es/gestores)
-+ [Vídeo resumiendo las ideas principales de los gestores de bibliografía.](https://www.youtube.com/watch?v=irhO95TOdY0)
-+ [Gestores bibliográficos: recomendaciones para su aprovechamiento en la academia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0qaDo5Zj2AhWOjaQKHcvlDWgQFnoECAMQAQ&url=https%3A%2F%2Fjasolutions.com.co%2Fwp-content%2Fuploads%2F2017%2F04%2FGetoresBibliograficos.pdf&usg=AOvVaw08ocEm3v9UCAYvhWr20_IU)
++ Gestores de bibliografía. Ante la gran cantidad de publicaciones disponibles se hace necesario utilizar aplicaciones informáticas que nos permiten gestionar bibliografía. Estas herramientas serán muy útiles en vuestro trabajo diario y más aún cuando estéis haciendo el TFG. Por eso, a continuación os paso algo de información para que os familiaricéis con la idea:
+  + [Guía de la UCO sobre gestores de bibliografía.](https://biblioguias.uco.es/gestores)
+  + [Vídeo resumiendo las ideas principales de los gestores de bibliografía.](https://www.youtube.com/watch?v=irhO95TOdY0)
+  + [Gestores bibliográficos: recomendaciones para su aprovechamiento en la academia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0qaDo5Zj2AhWOjaQKHcvlDWgQFnoECAMQAQ&url=https%3A%2F%2Fjasolutions.com.co%2Fwp-content%2Fuploads%2F2017%2F04%2FGetoresBibliograficos.pdf&usg=AOvVaw08ocEm3v9UCAYvhWr20_IU)
+
++ Herramientas de inteligencia artificial. Desde hace un año más o menos, las herramientas de inteligencia artificial que son capaces de escribir textos (las llamadas IAs generativas y bots conversacionales), se han convertido el la última moda en cuanto a manejo de información digital. No se trata de una moda pasajera. Están aquí para quedarse y probablemente cambien drásticamente la forma en la que nos relacionamos con la información. Igual que internet aportó un repositorio global de información accesible al instante, las IAs generativas nos ayudarán a pensar mejor, plantear preguntas más oportunas y abordar retos impensables hasta ahora. Es nuestra responsabilidad usarlas para el bien común. En esta práctica empezaremos a usar algunas herramientas IA que serán muy comunes durante toda la asignatura. Además de aprender su uso, es importante que tengas en cuenta [estas](https://rawcdn.githack.com/aprendiendo-cosas/ecologia_CCAA_UCO/72f3e12aef9593f49a4166765f00389b95e3a5fe/normas_IA.html) normas que usaremos para su manejo. A continuación se describen brevemente las herramientas que utilizaremos:
+  + [ChatGPT](https://chat.openai.com/) es una IA conversacional. Es capaz de redactar textos elaborados a partir de una pregunta cualquiera por parte del usuario. Es capaz de escribir correctamente y puede ser muy útil para resumir textos, estructurar y esquematizar contenido, elaborar guiones, etc. Para obtener buenos resultados de esta herramienta es importante que las preguntas estén bien planteadas y que repreguntemos ante sus respuestas. En [este](https://www.youtube.com/watch?si=dwyE-O02BnqwOH1k&v=ru_ltZA6NTM&feature=youtu.be) vídeo puedes ver con más detalle cómo proceder. 
+
+  + [Elicit](https://elicit.org/) es otra IA conversacional, pero en este caso está especialmente diseñada para resumir artículos científicos. Ante una pregunta cualquiera, devuelve una lista de artículos que abordan el tema preguntado y ofrece un resultado consensuado de todos ellos. 
+
+  + [Consensus](https://consensus.app) tiene unas funciones parecidas a Elicit.
+
+  + [Perplexity](https://www.perplexity.ai/) recoge, en mi opinión, ventajas de las dos herramientas anteriores. Es capaz de responder preguntas complejas elaborando un texto muy rico y diverso, pero además añade las referencias bibliográficas que ha usado para construir el texto. 
+
 
 
 
 ## Cronología de la práctica y pasos a dar
 
-A lo largo de las cuatro horas que tenemos daremos los siguientes pasos:
+A lo largo de las tres horas que tenemos daremos los siguientes pasos:
 
-+ Día 1:
-  + Descripción de los objetivos de la práctica y de los contenidos del guión. **50'**
-  + Leer por primera vez el artículo que te envió tu tía Bea. **10'**
-  + Búsqueda de artículos científicos relevantes usando [*Web of Science*](https://www.webofscience.com/wos/woscc/basic-search). **20'**
-  + Búsqueda de información usando [*ChatGPT*](https://chat.openai.com/chat). **10'**
-  + Búsqueda de información usando [*Elicit*](https://elicit.org/). **10'**
-  + Búsqueda de información usando [*Perplexity*](https://www.perplexity.ai/). **10'**
++ Breve explicación sobre cómo acceder al conocimiento científico y uso de las herramientas descritas en las secciones anteriores. 25'
++ Lectura del artículo que usaremos como situación de aprendizaje en la práctica. Está referenciado al principio de este guión. 15'
++ Identificación de entre 3 y 5 sesgos dentro del artículo anterior (60'). Procederéis de manera individual de la siguiente forma:
+  + Identificar la frase que os resulta incorrecta o que contiene un sesgo.
 
-+ Día 2: **110'**
-  + Lectura en profundidad del artículo que vamos a comentar.
-  + Identificación de frases o párrafos que puedan contener sesgos.
-  + Identificar los sesgos.
-  + Buscar información científica para constrastar los sesgos anteriores usando las herramientas vistas el día anterior.
-  + Añadir comentarios al artículo principal.
-  + Entregar tarea.
+  + Buscar artículos científicos o usar IA para identificar el tipo de sesgo encontrado y cómo refutarlo.
 
+  + Anotar todo en comentarios dentro del texto asociados a la frase en cuestión.
+
++ Tratar de encontrar una respuesta concluyente a la pregunta de si estamos realmente ante una crisis de biodiversidad que se parece a las extinciones masivas del pasado. Para ello usaremos las herramientas de búsqueda de información y las IAs descritas anteriormente. 60'.
 
 Durante el desarrollo de la práctica os animo a que trabajéis juntos. Preguntaros cosas entre vosotros y tratad de ayudar al compañero. Podéis hacer grupos y dividiros el trabajo. Compartir artículos y reflexiones. Pero la entrega de esta actividad es individual. 
 
+Al final de la práctica deberás de subir [aquí](https://moodle.uco.es/m2324/mod/assign/view.php?id=273132) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. 
 
-
-## Resultados
-
-
-
-
-
-
-
-
-
-Al final de la práctica (que tiene dos sesiones) deberás de subir [aquí](https://www.turnitin.com/t_submit.asp?r=63.1753579999391&svr=35&lang=en_us&aid=132048877) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. La evaluación de tu desempeño en esta actividad se realizará a través de una rúbrica que está disponible en la página de entrega. La rúbrica aparece al hacer click en un icono con muchos cuadraditos pequeños, bajo el campo llamado "información".
-
-Si al leer esto te ha parecido que esta práctica es muy compleja y que no sabes hacerla, estás en lo cierto. Pero estamos aquí para aprender y para mejorar, así que vamos a ello. 

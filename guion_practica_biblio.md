@@ -123,10 +123,10 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
 
 + Buscadores de bibliografía. Los artículos científicos son publicados por editoriales privadas que permiten su descarga (previo pago) a través de sus webs particulares. Pero a la vez hay webs que indexan todos los artículos que se van publicando y los ponen a disposición de los usuarios. Estos catálogos on line son la forma más habitual de buscar artículos científicos (y a veces informes) en internet. Ahí van algunos catálogos:
   + [Google Scholar](https://scholar.google.es/) es un buscador con pocas opciones, pero que tiene la ventaja del algoritmo de búsqueda de Google.
-  + [Web of science](https://scholar.google.es/) es el buscador de literatura científica más potente. Tiene múltiples opciones de búsqueda. Pueden personalizarse y es posible exportar los resultados de una búsqueda compleja. 
+  + [Web of science](https://www.webofscience.com/wos/woscc/basic-search) es el buscador de literatura científica más potente. Tiene múltiples opciones de búsqueda. Pueden personalizarse y es posible exportar los resultados de una búsqueda compleja. 
   + SciHub es un buscador de bibliografía científica que se encuentra al margen de la ley. Su fundadora Alexandra Elbakyan creó esta plataforma como una reacción al alto coste de compra de los artículos científicos. Para que os hagáis una idea, España se gasta cada año 25 millones de euros en revistas científicas. Las universidades y centros de investigación pagan este dineral para acceder a los artículos científicos que buena parte de los investigadores (también españoles) publican en las revistas... Esto son hechos y con ellos no pretendo yo animar a que uséis una herramienta ilegal como [SciHub](https://sci-hub.hkvisa.net/).
 
-+ El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-	Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
++ El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
   + Configurar un acceso vía VPN desde vuestro ordenador. [Aquí](http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn) tenéis las instrucciones.
   + Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. [Aquí](https://www.uco.es/servicios/informatica/novedades/185-acceso-remoto-a-los-escritorios) tenéis las instrucciones de acceso.
 
@@ -151,7 +151,7 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
 
 A lo largo de las tres horas que tenemos daremos los siguientes pasos:
 
-+ Breve explicación sobre cómo acceder al conocimiento científico y uso de las herramientas descritas en las secciones anteriores. 25'
++ Breve explicación sobre cómo acceder al conocimiento científico y uso de las herramientas descritas en las secciones anteriores. 40'
 + Lectura del artículo que usaremos como situación de aprendizaje en la práctica. Está referenciado al principio de este guión. 15'
 + Identificación de entre 3 y 5 sesgos dentro del artículo anterior (60'). Procederéis de manera individual de la siguiente forma:
   + Identificar la frase que os resulta incorrecta o que contiene un sesgo.
@@ -164,5 +164,5 @@ A lo largo de las tres horas que tenemos daremos los siguientes pasos:
 
 Durante el desarrollo de la práctica os animo a que trabajéis juntos. Preguntaros cosas entre vosotros y tratad de ayudar al compañero. Podéis hacer grupos y dividiros el trabajo. Compartir artículos y reflexiones. Pero la entrega de esta actividad es individual. 
 
-Al final de la práctica deberás de subir [aquí](https://moodle.uco.es/m2324/mod/assign/view.php?id=273132) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. 
+Cuando termines (preferiblemente el día en el que hagas la práctica) deberás de subir [aquí](https://moodle.uco.es/m2324/mod/assign/view.php?id=273132) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. 
 

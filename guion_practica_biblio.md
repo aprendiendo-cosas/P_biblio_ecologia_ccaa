@@ -30,7 +30,7 @@ Lamentablemente la verdad en sentido estricto no existe (o no es fácil de encon
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
 
 
 
@@ -51,7 +51,7 @@ Podemos describir los objetivos anteriores gráficamente. El meme de abajo lo mu
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/postverdad.jpg" alt="postverdad" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/postverdad.jpg" alt="postverdad" style="zoom:50%;" />
 
 
 
@@ -67,14 +67,14 @@ Usaremos una situación de aprendizaje para realizar esta práctica. Las situaci
 >
 > 
 >
-> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/tiabea.jpg" alt="image" style="zoom:70%;" />
+> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/imagenes/tiabea.jpg" alt="image" style="zoom:70%;" />
 >
 > Tienes que darle una respuesta a tu tía. Una realmente convicente. Bien apoyando lo que dice el artículo o bien refutándolo con argumentos y evidencias (no opiniones).
 > 
 
 
 
-En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. 
+En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. 
 
 Para identificar más fácilmente las afirmaciones que haya en el texto y que no se ajustan a la realidad o que no están adecuadamente contrastadas, usaremos el concepto de "sesgo cognitivo". Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si te consideras muy ecologista, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si estás en contra del catastrofismo ambiental, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos. La idea es que leas el texto con las gafas de los sesgos cognitivos y que identifiques frases que creas que son sesgadas. 
 
@@ -82,7 +82,7 @@ Para identificar más fácilmente las afirmaciones que haya en el texto y que no
 
 
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
 
 
 
@@ -90,7 +90,7 @@ Tras leer el texto e identificar algún sesgo (entre 2 y 5), tendremos que rebat
 
 
 
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/main/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:100%;" />
+<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:100%;" />
 
 
 
@@ -106,11 +106,11 @@ En esta sección describimos brevemente cómo se almacena el conocimiento cient�
 
 #### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/master/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/master/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/presentacion/publicaciones.html) enlace. 
 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/presentacion/publicaciones.html"
   style="width:100%; height:850px;"
 ></iframe>
 

@@ -18,7 +18,7 @@ La finalidad última de esta práctica es aportar al estudiante algunas herramie
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
 
 
 
@@ -26,7 +26,7 @@ Lamentablemente la verdad en sentido estricto no existe (o no es fácil de encon
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
 
 
 
@@ -135,7 +135,7 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
   + [Vídeo resumiendo las ideas principales de los gestores de bibliografía.](https://www.youtube.com/watch?v=irhO95TOdY0)
   + [Gestores bibliográficos: recomendaciones para su aprovechamiento en la academia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0qaDo5Zj2AhWOjaQKHcvlDWgQFnoECAMQAQ&url=https%3A%2F%2Fjasolutions.com.co%2Fwp-content%2Fuploads%2F2017%2F04%2FGetoresBibliograficos.pdf&usg=AOvVaw08ocEm3v9UCAYvhWr20_IU)
 
-+ Herramientas de inteligencia artificial. Desde hace un año más o menos, las herramientas de inteligencia artificial que son capaces de escribir textos (las llamadas IAs generativas y bots conversacionales), se han convertido el la última moda en cuanto a manejo de información digital. No se trata de una moda pasajera. Están aquí para quedarse y probablemente cambien drásticamente la forma en la que nos relacionamos con la información. Igual que internet aportó un repositorio global de información accesible al instante, las IAs generativas nos ayudarán a pensar mejor, plantear preguntas más oportunas y abordar retos impensables hasta ahora. Es nuestra responsabilidad usarlas para el bien común. En esta práctica empezaremos a usar algunas herramientas IA que serán muy comunes durante toda la asignatura. Además de aprender su uso, es importante que tengas en cuenta [estas](https://rawcdn.githack.com/aprendiendo-cosas/ecologia_CCAA_UCO/72f3e12aef9593f49a4166765f00389b95e3a5fe/normas_IA.html) normas que usaremos para su manejo. A continuación se describen brevemente las herramientas que utilizaremos:
++ Herramientas de inteligencia artificial. Desde hace un año más o menos, las herramientas de inteligencia artificial que son capaces de escribir textos (las llamadas IAs generativas y bots conversacionales), se han convertido el la última moda en cuanto a manejo de información digital. No se trata de una moda pasajera. Están aquí para quedarse y probablemente cambien drásticamente la forma en la que nos relacionamos con la información. Igual que internet aportó un repositorio global de información accesible al instante, las IAs generativas nos ayudarán a pensar mejor, plantear preguntas más oportunas y abordar retos impensables hasta ahora. Es nuestra responsabilidad usarlas para el bien común. En esta práctica empezaremos a usar algunas herramientas IA que serán muy comunes durante toda la asignatura. Además de aprender su uso, es importante que tengas en cuenta [estas](https://rawcdn.githack.com/aprendiendo-cosas/ecologia_CCAA_UCO/master/normas_IA.html) normas que usaremos para su manejo. A continuación se describen brevemente las herramientas que utilizaremos:
   + [ChatGPT](https://chat.openai.com/) es una IA conversacional. Es capaz de redactar textos elaborados a partir de una pregunta cualquiera por parte del usuario. Es capaz de escribir correctamente y puede ser muy útil para resumir textos, estructurar y esquematizar contenido, elaborar guiones, etc. Para obtener buenos resultados de esta herramienta es importante que las preguntas estén bien planteadas y que repreguntemos ante sus respuestas. En [este](https://www.youtube.com/watch?si=dwyE-O02BnqwOH1k&v=ru_ltZA6NTM&feature=youtu.be) vídeo puedes ver con más detalle cómo proceder. 
 
   + [Elicit](https://elicit.org/) es otra IA conversacional, pero en este caso está especialmente diseñada para resumir artículos científicos. Ante una pregunta cualquiera, devuelve una lista de artículos que abordan el tema preguntado y ofrece un resultado consensuado de todos ellos. 
@@ -164,5 +164,9 @@ A lo largo de las tres horas que tenemos daremos los siguientes pasos:
 
 Durante el desarrollo de la práctica os animo a que trabajéis juntos. Preguntaros cosas entre vosotros y tratad de ayudar al compañero. Podéis hacer grupos y dividiros el trabajo. Compartir artículos y reflexiones. Pero la entrega de esta actividad es individual. 
 
-Cuando termines (preferiblemente el día en el que hagas la práctica) deberás de subir [aquí](https://moodle.uco.es/m2324/mod/assign/view.php?id=273132) el documento de word con tus aportaciones. Cuando terminemos el ejercicio, yo recopilaré los comentarios que considere más interesantes y enviaré al autor real del artículo nuestra visión conjunta :) También comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. 
+Cuando termines (preferiblemente el día en el que hagas la práctica) deberás de subir [aquí](https://moodle.uco.es/m2324/mod/assign/view.php?id=273132) el documento de word con tus aportaciones. Después comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. 
+
+
+
+
 

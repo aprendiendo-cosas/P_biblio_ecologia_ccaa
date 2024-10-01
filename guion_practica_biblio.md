@@ -1,16 +1,17 @@
-# Guión de la práctica denominada "Algunas pistas para no sucumbir en el mar de información en el que navegamos..."
+# Búsqueda de docmentación sobre los ecosistemas de Sierra Nevada
 
 
-> + **_Versión_**: 2023-2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
+> + **_Versión_**: 2024-2025
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**:  1 sesión de 3 horas.
+> + **_Duración_**:  2 sesiones de 1.5 horas.
 
 
 
 ## Objetivos 
 
-Esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: 
+Después de preparar los equipos de trabajo esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: 
 + Cómo navegar en el proceloso mar de información en el que se ha convertido internet.
 + Cómo distinguir "la verdad" de la información incorrecta o falsa.
 
@@ -42,67 +43,20 @@ La finalidad descrita anteriormente (deliberadamente ambigua) se concreta en los
    + Aprender la estructura de un artículo científico.
    + Usar buscadores de bibliografía científica digital.
    + Saber distinguir la literatura científica de la periodística y de la de opinión. 
-   + Identificar sesgos cognitivos en un texto escrito.
    + Iniciar el aprendizaje del uso de herramientas de inteligencia artificial generativa. 
-+ Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología.
-   + Entender mejor el impacto de la actividad humana sobre los procesos de extinción de especies. 
-
-Podemos describir los objetivos anteriores gráficamente. El meme de abajo lo muestra bien (en mi opinión). Queremos ser el tipo de la izquierda. Queremos sostener nuestra visión del mundo en pensamientos racionales contrastables y no tanto en opiniones. O al menos queremos que nuestras opiniones no nos hagan creer que tenemos razón.
-
-
-
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/postverdad.jpg" alt="postverdad" style="zoom:50%;" />
-
-
+   + Aprender a usar el concepto de mapa mental para sintentizar información y recopilar conocimiento relevante procedente de diversas fuentes.
+   + Recopilar la información generada en un repositorio documental para cada equipo.
++ Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología y del trabajo que tenemos que hacer en las prácticas de la asignatura.
+   + Recopilar información general sobre el ecosistema asignado.
+   + Alcanzar una idea general sobre su estructura, distribución y funcionamiento.
 
 Para ser la primera práctica tiene unos objetivos ambiciosos... Veamos cómo vamos a cumplirlos:
 
 
 
-## Modus operandi (=cómo lo haremos)
-
-Usaremos una situación de aprendizaje para realizar esta práctica. Las situaciones de aprendizaje son entornos o contextos que se pueden dar en la realidad y que promueven el aprendizaje de ciertas competencias o habilidades. Es decir, son "proyectos"  que anclan el aprendizaje adquirido a situaciones de la vida real. En esta práctica se usa la siguiente situación de aprendizaje:
-
-> A tu tía Beatriz le encanta leer revistas de actualidad. Está al corriente de todos los temas sociopolíticos de España y del mundo. De vez en cuando te envía por Whatsapp artículos relacionados con el medio ambiente. Ayer te envió estos mensajes:
->
-> 
->
-> <img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/imagenes/tiabea.jpg" alt="image" style="zoom:70%;" />
->
-> Tienes que darle una respuesta a tu tía. Una realmente convicente. Bien apoyando lo que dice el artículo o bien refutándolo con argumentos y evidencias (no opiniones).
-> 
-
-
-
-En [este](https://disidentia.com/no-no-estamos-en-medio-del-apocalipsis-ecologico/) enlace puedes ver el artículo original. Y [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/presentacion/no_apocalipsis.docx) puedes descargar una transcripción literal del mismo en formato Word. A lo largo de esta práctica analizaremos este texto y daremos a tu tía Bea la respuesta que pide. Para ello iremos añadiendo al texto una serie de comentarios que maticen, corrijan o desmientan las cosas que vemos en él que no nos parecen correctas a la luz de la evidencia científica disponible. 
-
-Para identificar más fácilmente las afirmaciones que haya en el texto y que no se ajustan a la realidad o que no están adecuadamente contrastadas, usaremos el concepto de "sesgo cognitivo". Según la wikipedia, un [sesgo cognitivo](https://es.wikipedia.org/wiki/Sesgo_cognitivo) es un efecto psicológico que desvía el pensamiento y lo distorsiona conduciéndonos a un juicio inexacto. Usando una terminología coloquial, los sesgos cognitivos son como "bugs" en la programación de nuestro cerebro que nos llevan a cometer frecuentemente los mismos errores. Se deben a que nuestro cerebro tiende a "adivinar" la realidad antes de que dispongamos de todos los datos necesarios para interpretarla adecuadamente. Un ejemplo clásico de sesgo cognitivo es el llamado "sesgo de confirmación". Es la tendencia que tenemos a interpretar cualquier hecho a la luz de nuestras preconcepciones. En el caso del texto que nos ocupa, si te consideras muy ecologista, seguramente no te gustará leer su contenido. Tenderás a creer que es incorrecto y que el autor miente o maquilla la realidad. Si estás en contra del catastrofismo ambiental, el sesgo de confirmación te llevará a pensar que el autor tiene toda la razón del mundo. [Este](https://jaimeburque.com/blog/111-errores-mentales-que-nos-influyen-en-las-relaciones-y-en-el-grupo-parte-ii/) texto describe con detalle muchos de los sesgos más habituales con los que la mente nos "engaña". La figura que puedes ver abajo resume alguno de ellos. La idea es que leas el texto con las gafas de los sesgos cognitivos y que identifiques frases que creas que son sesgadas. 
-
-
-
-
-
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/imagenes/sesgos.jpg" alt="image" style="zoom:100%;" />
-
-
-
-Tras leer el texto e identificar algún sesgo (entre 2 y 5), tendremos que rebatirlo con argumentos sustentados en evidencias científicas. Por ejemplo, si en el texto dijera algo así: "es mentira que la actividad humana esté provocando la extinción de especies", tendremos que argumentar que esto no es cierto aportando artículos científicos o informes que muestren realmente el proceso de extinción de especies que estamos sufriendo. Con esa información haremos un comentario para cada frase que contenga un sesgo. La imagen de abajo muestra cómo debería de quedar documentado cada sesgo que identifiquemos.
-
-
-
-<img src="https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/imagenes/ejemplo_comentario.jpg" alt="image" style="zoom:100%;" />
-
-
-
-Si completamos bien esta parte de la práctica, habremos identificado una serie de errores o de interpretaciones equivocadas en el texto que nos mando tu tía Bea. Pero esto no nos dará una respuesta clara y contundente sobre si en realidad estamos viviendo una extinción masiva de especies. Así que, en la segunda parte de la práctica trataremos de responder a esta pregunta: ¿existe en la actualidad una extinción masiva y catastrófica de especies? 
-
-Para responder a las dos partes de este ejercicio necesitamos acceder al conocimiento científico sobre el asunto en cuestión. Y aquí está el meollo conceptual de esta práctica: aprender a buscar y a analizar información científica (ver siguiente sección). 
-
-
-
 ## Herramientas que usaremos en la práctica
 
-En esta sección describimos brevemente cómo se almacena el conocimiento científico y cómo se accede a él. Será la única sección que se explicará el día de la práctica. El resto del contenido (lo que hay más arriba de esto) se dará por leído y entendido.
+En esta sección describimos brevemente cómo se almacena el conocimiento científico y cómo se accede a él. Será la única sección que se explicará el día de la práctica. 
 
 #### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
@@ -117,9 +71,7 @@ La característica estructural básica de la información científica es que se 
 
 #### Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos alguna de las siguientes herramientas:
-
-
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las siguientes herramientas:
 
 + Buscadores de bibliografía. Los artículos científicos son publicados por editoriales privadas que permiten su descarga (previo pago) a través de sus webs particulares. Pero a la vez hay webs que indexan todos los artículos que se van publicando y los ponen a disposición de los usuarios. Estos catálogos on line son la forma más habitual de buscar artículos científicos (y a veces informes) en internet. Ahí van algunos catálogos:
   + [Google Scholar](https://scholar.google.es/) es un buscador con pocas opciones, pero que tiene la ventaja del algoritmo de búsqueda de Google.
@@ -151,22 +103,41 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
 
 A lo largo de las tres horas que tenemos daremos los siguientes pasos:
 
-+ Breve explicación sobre cómo acceder al conocimiento científico y uso de las herramientas descritas en las secciones anteriores. 40'
-+ Lectura del artículo que usaremos como situación de aprendizaje en la práctica. Está referenciado al principio de este guión. 15'
-+ Identificación de entre 3 y 5 sesgos dentro del artículo anterior (60'). Procederéis de manera individual de la siguiente forma:
-  + Identificar la frase que os resulta incorrecta o que contiene un sesgo.
-
-  + Buscar artículos científicos o usar IA para identificar el tipo de sesgo encontrado y cómo refutarlo.
-
-  + Anotar todo en comentarios dentro del texto asociados a la frase en cuestión.
-
-+ Tratar de encontrar una respuesta concluyente a la pregunta de si estamos realmente ante una crisis de biodiversidad que se parece a las extinciones masivas del pasado. Para ello usaremos las herramientas de búsqueda de información y las IAs descritas anteriormente. 60'.
-
-Durante el desarrollo de la práctica os animo a que trabajéis juntos. Preguntaros cosas entre vosotros y tratad de ayudar al compañero. Podéis hacer grupos y dividiros el trabajo. Compartir artículos y reflexiones. Pero la entrega de esta actividad es individual. 
-
-Cuando termines (preferiblemente el día en el que hagas la práctica) deberás de subir [aquí](https://moodle.uco.es/m2324/mod/assign/view.php?id=273132) el documento de word con tus aportaciones. Después comentaré vuestros comentarios para iniciar así un ciclo de retroalimentación. 
-
-
++ Primera sesión:
+  + Breve explicación sobre cómo acceder al conocimiento científico y uso de las herramientas descritas en las secciones anteriores. 50'.
+  + Reunión de cada equipo de trabajo con un único punto en el orden del día: definir juntos qué aspectos de cada ecosistema van a buscar y quién hará cada cosa. Como una forma de concretar un poco qué información necesitamos de cada tipo de ecosistema, ahí van los aspectos principales que perseguimos:
+    + Distribución del ecosistema.
+    + Características de las poblaciones más representativas del ecosistema. Por ejemplo, en un bosque, la población más representativa será la de la especie dominante (Ej. Encinas). Necesitaremos saber qué características tienen las encinas de un encinar: estructura de edades o tamaños, etc.
+    + Diversidad: Lo veremos con detalle en las próximas semanas, pero adelanto que la diversidad nos da idea del número y abundancia relativa de las distintas especies que hay en un ecosistema determinado.
+    + Condiciones abióticas en las que se desarrolla el ecosistema en cuestión. Necesitamos saber qué condiciones climáticas son las más frecuentes en los lugares en los que vive nuestro ecosistema. 
+    + Servicios ecosistémicos que provee el ecosistema. Nos interesa saber qué productos o elementos aporta este ecosistema y son útiles para nosotros.
+    + Aspectos relacionados con la gestión del ecosistema. Aunque sea de manera general, resulta importante saber cómo los humanos gestionamos este ecosistema. Por ejemplo, en un bosque de alcornoques, la gestión consiste en extraer corcho cada cierto tiempo.
+    + Posibles impactos y problemas que enfrenta. Esto está relacionado con la cuestión anterior. Nos interesa saber cuáles son los retos de conservación que enfrenta nuestro ecosistema.
+  + El plan propuesto por el equipo se subirá al Teams preferiblemente usando la herramienta OneNote que sirve para tomar notas, preparar documentos en fase de "lluvia de ideas", etc. Podéis integrar OneNote en Teams haciendo click en el signo "+" que hay en la parte de arriba del equipo, justo a la derecha de "Chat" y "Archivos". Después, buscáis "onenote" y lo añadís. Esto crea una especie de cuaderno al que se pueden añadir multitud de notas de distinto tipo: texto, dibujos a mano alzada, imágenes, etc.
++ Segunda sesión:
+  + Descripción grupal de la estrategia que seguirá cada equipo para recopilar información.
+  + Implementación del plan por parte de cada equipo. 
 
 
+
+
+
+
+
+
+
+
+
+
+****
+
+[Aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+
+****
+Haz click [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+****
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
+
+<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
 

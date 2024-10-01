@@ -1,4 +1,4 @@
-# Búsqueda de docmentación sobre los ecosistemas de Sierra Nevada
+# Búsqueda de documentación sobre los ecosistemas de Sierra Nevada
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 

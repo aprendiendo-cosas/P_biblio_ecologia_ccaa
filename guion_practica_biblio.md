@@ -19,7 +19,7 @@ La finalidad última de esta práctica es aportar al estudiante algunas herramie
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
 
 
 
@@ -27,11 +27,11 @@ Lamentablemente la verdad en sentido estricto no existe (o no es fácil de encon
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
 
 
 
@@ -60,11 +60,11 @@ En esta sección describimos brevemente cómo se almacena el conocimiento cient�
 
 #### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2023_2024/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2024_2025/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/presentacion/publicaciones.html) enlace. 
 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2023_2024/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/presentacion/publicaciones.html"
   style="width:100%; height:850px;"
 ></iframe>
 
@@ -117,6 +117,22 @@ A lo largo de las tres horas que tenemos daremos los siguientes pasos:
 + Segunda sesión:
   + Descripción grupal de la estrategia que seguirá cada equipo para recopilar información.
   + Implementación del plan por parte de cada equipo. 
+  + Comentarios que surgen durante el trabajo de los equipos en esta sesión:
+    + Insistimos en que los equipos tengan un nombre acorde a las normas ya expresadas.
+    + Cada miembro del equipo tendrá una etiqueta con su papel dentro del grupo. Las etiquetas se asignan así:
+      + Hacer click en los tres puntos que hay a la derecha del nombre del grupo, en el panel de la izquierda de Teams.
+      + Seleccionar "administrar equipo".
+      + En la lista de miembros hay una columna llamada "etiquetas". Teclead allí el nombre del papel de cada persona.
+  + Cuando encontremos información en internet hay que tener en cuenta la fuente de dicha información. No es lo mismo un artículo científico que una página web de una institución, por ejemplo.
+  + Queremos recopilar información sobre ecosistemas de un territorio concreto (Sierra Nevada. España). A veces no hay información disponible sobre ese sitio concreto. Pero los tipos de ecosistemas son parecidos en todo el mundo. Por ejemplo, los bosques de *Quercus* de Europa del sur se parecen mucho a los de Chile. Así que, quizás podamos aprender algo sobre nuestro ecosistema aunque la información proceda de otros territorios. Lo que suele conservarse es la estructura y el funcionamiento de los ecosistemas. Es la composición de especies la que más cambia entre sitios.
+  + Los artículos científicos muestran información muy detallada y quizás no resulten completamente útiles para lo que necesitamos. Nosotros queremos recopilar información muy general sobre distintos tipos de ecosistemas. Quizás en esta fase sea más útil trabajar con informes instituciones o incluso con artículos de Wikipedia.
+  + Resultará complejo encontrar información sobre cómo se manejan los distintos tipos de ecosistemas. Esta información es muy local y no siempre está publicada en internet. Pero no os preocupéis. Trabajaremos más esto en la parte final de la asignatura y en el segundo cuatrimestre.
+  
+  
+## A modo de conclusión
+La recopilación de documentación sobre cualquier aspecto que nos interese, no es solo la primera fase de casi cualquier trabajo. Es algo que debemos de mantener durante toda la actividad. En esta primera aproximación habéis adquirido algunas competencias para buscar información, sintentizarla y compartirla. Debéis seguir entrenando esas competencias durante toda la asignatura (y me atrevería a decir que durante toda la vida).
+
+En el segundo cuatrimestre daremos una "vuelta de tuerca" a la competencia de búsqueda de documentación. Trabajaremos con gestores de bibliografía que nos permiten documentar adecuadamente los informes y artículos de interés que vayamos encontrando.
 
 
 

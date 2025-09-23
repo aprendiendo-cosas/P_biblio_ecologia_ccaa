@@ -2,16 +2,16 @@
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #4caf50; border-radius: 5px; padding: 5px; font-weight: bold;"> Prácticas</span> 
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**:  2 sesiones de 1.5 horas.
+> + **_Duración_**:  2 sesiones de 2 horas.
 
 
 
 ## Objetivos 
 
-Después de preparar los equipos de trabajo esta es la primera práctica de la asignatura. También es, quizás, la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: 
+Esta práctica es la primera de la asignatura y quizás la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: 
 + Cómo navegar en el proceloso mar de información en el que se ha convertido internet.
 + Cómo distinguir "la verdad" de la información incorrecta o falsa.
 
@@ -95,40 +95,18 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
   + [Consensus](https://consensus.app) tiene unas funciones parecidas a Elicit.
 
   + [Perplexity](https://www.perplexity.ai/) recoge, en mi opinión, ventajas de las dos herramientas anteriores. Es capaz de responder preguntas complejas elaborando un texto muy rico y diverso, pero además añade las referencias bibliográficas que ha usado para construir el texto. 
+  
+  + [Notebook LM](https://notebooklm.google.com/) es una herramienta creada por google especialmente para ser utilizada como asistente o copiloto del aprendizaje. Su característica fundamental es que permite analizar con detalle información contenida en documentos específicamente suministrados por el usuario al modelo de lenguaje. Es decir, permite "conversar" con 
 
 
 
 
 ## Cronología de la práctica y pasos a dar
 
-A lo largo de las tres horas que tenemos daremos los siguientes pasos:
 
-+ Primera sesión:
-  + Breve explicación sobre cómo acceder al conocimiento científico y uso de las herramientas descritas en las secciones anteriores. 50'.
-  + Reunión de cada equipo de trabajo con un único punto en el orden del día: definir juntos qué aspectos de cada ecosistema van a buscar y quién hará cada cosa. Como una forma de concretar un poco qué información necesitamos de cada tipo de ecosistema, ahí van los aspectos principales que perseguimos:
-    + Distribución del ecosistema.
-    + Características de las poblaciones más representativas del ecosistema. Por ejemplo, en un bosque, la población más representativa será la de la especie dominante (Ej. Encinas). Necesitaremos saber qué características tienen las encinas de un encinar: estructura de edades o tamaños, etc.
-    + Diversidad: Lo veremos con detalle en las próximas semanas, pero adelanto que la diversidad nos da idea del número y abundancia relativa de las distintas especies que hay en un ecosistema determinado.
-    + Condiciones abióticas en las que se desarrolla el ecosistema en cuestión. Necesitamos saber qué condiciones climáticas son las más frecuentes en los lugares en los que vive nuestro ecosistema. 
-    + Servicios ecosistémicos que provee el ecosistema. Nos interesa saber qué productos o elementos aporta este ecosistema y son útiles para nosotros.
-    + Aspectos relacionados con la gestión del ecosistema. Aunque sea de manera general, resulta importante saber cómo los humanos gestionamos este ecosistema. Por ejemplo, en un bosque de alcornoques, la gestión consiste en extraer corcho cada cierto tiempo.
-    + Posibles impactos y problemas que enfrenta. Esto está relacionado con la cuestión anterior. Nos interesa saber cuáles son los retos de conservación que enfrenta nuestro ecosistema.
-  + El plan propuesto por el equipo se subirá al Teams preferiblemente usando la herramienta OneNote que sirve para tomar notas, preparar documentos en fase de "lluvia de ideas", etc. Podéis integrar OneNote en Teams haciendo click en el signo "+" que hay en la parte de arriba del equipo, justo a la derecha de "Chat" y "Archivos". Después, buscáis "onenote" y lo añadís. Esto crea una especie de cuaderno al que se pueden añadir multitud de notas de distinto tipo: texto, dibujos a mano alzada, imágenes, etc.
-+ Segunda sesión:
-  + Descripción grupal de la estrategia que seguirá cada equipo para recopilar información.
-  + Implementación del plan por parte de cada equipo. 
-  + Comentarios que surgen durante el trabajo de los equipos en esta sesión:
-    + Insistimos en que los equipos tengan un nombre acorde a las normas ya expresadas.
-    + Cada miembro del equipo tendrá una etiqueta con su papel dentro del grupo. Las etiquetas se asignan así:
-      + Hacer click en los tres puntos que hay a la derecha del nombre del grupo, en el panel de la izquierda de Teams.
-      + Seleccionar "administrar equipo".
-      + En la lista de miembros hay una columna llamada "etiquetas". Teclead allí el nombre del papel de cada persona.
-  + Cuando encontremos información en internet hay que tener en cuenta la fuente de dicha información. No es lo mismo un artículo científico que una página web de una institución, por ejemplo.
-  + Queremos recopilar información sobre ecosistemas de un territorio concreto (Sierra Nevada. España). A veces no hay información disponible sobre ese sitio concreto. Pero los tipos de ecosistemas son parecidos en todo el mundo. Por ejemplo, los bosques de *Quercus* de Europa del sur se parecen mucho a los de Chile. Así que, quizás podamos aprender algo sobre nuestro ecosistema aunque la información proceda de otros territorios. Lo que suele conservarse es la estructura y el funcionamiento de los ecosistemas. Es la composición de especies la que más cambia entre sitios.
-  + Los artículos científicos muestran información muy detallada y quizás no resulten completamente útiles para lo que necesitamos. Nosotros queremos recopilar información muy general sobre distintos tipos de ecosistemas. Quizás en esta fase sea más útil trabajar con informes instituciones o incluso con artículos de Wikipedia.
-  + Resultará complejo encontrar información sobre cómo se manejan los distintos tipos de ecosistemas. Esta información es muy local y no siempre está publicada en internet. Pero no os preocupéis. Trabajaremos más esto en la parte final de la asignatura y en el segundo cuatrimestre.
-  
-  
+
+
+
 ## A modo de conclusión
 La recopilación de documentación sobre cualquier aspecto que nos interese, no es solo la primera fase de casi cualquier trabajo. Es algo que debemos de mantener durante toda la actividad. En esta primera aproximación habéis adquirido algunas competencias para buscar información, sintentizarla y compartirla. Debéis seguir entrenando esas competencias durante toda la asignatura (y me atrevería a decir que durante toda la vida).
 

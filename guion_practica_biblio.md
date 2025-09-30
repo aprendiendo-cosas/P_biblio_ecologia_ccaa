@@ -44,8 +44,6 @@ La finalidad descrita anteriormente (deliberadamente ambigua) se concreta en los
    + Usar buscadores de bibliografía científica digital.
    + Saber distinguir la literatura científica de la periodística y de la de opinión. 
    + Iniciar el aprendizaje del uso de herramientas de inteligencia artificial generativa. 
-   + Aprender a usar el concepto de mapa mental para sintentizar información y recopilar conocimiento relevante procedente de diversas fuentes.
-   + Recopilar la información generada en un repositorio documental para cada equipo.
 + Disciplinares (también llamados operacionales): Están relacionados con competencias propias de la ecología y del trabajo que tenemos que hacer en las prácticas de la asignatura.
    + Recopilar información general sobre el ecosistema asignado.
    + Alcanzar una idea general sobre su estructura, distribución y funcionamiento.
@@ -62,23 +60,23 @@ En esta sección describimos brevemente cómo se almacena el conocimiento cient�
 
 La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2024_2025/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/presentacion/publicaciones.html) enlace. 
 
-
 <iframe
   src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/presentacion/publicaciones.html"
-  style="width:100%; height:850px;"
+  style="width:100%; height:550px;"
 ></iframe>
+
 
 
 #### Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos meses están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las siguientes herramientas:
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos años están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las siguientes herramientas:
 
 + Buscadores de bibliografía. Los artículos científicos son publicados por editoriales privadas que permiten su descarga (previo pago) a través de sus webs particulares. Pero a la vez hay webs que indexan todos los artículos que se van publicando y los ponen a disposición de los usuarios. Estos catálogos on line son la forma más habitual de buscar artículos científicos (y a veces informes) en internet. Ahí van algunos catálogos:
   + [Google Scholar](https://scholar.google.es/) es un buscador con pocas opciones, pero que tiene la ventaja del algoritmo de búsqueda de Google.
   + [Web of science](https://www.webofscience.com/wos/woscc/basic-search) es el buscador de literatura científica más potente. Tiene múltiples opciones de búsqueda. Pueden personalizarse y es posible exportar los resultados de una búsqueda compleja. 
   + SciHub es un buscador de bibliografía científica que se encuentra al margen de la ley. Su fundadora, Alexandra Elbakyan, creó esta plataforma como una reacción al alto coste de compra de los artículos científicos. Para que os hagáis una idea, España se gasta cada año 25 millones de euros en revistas científicas. Las universidades y centros de investigación pagan este dineral para acceder a los artículos científicos que buena parte de los investigadores (también españoles) publican en las revistas... Esto son hechos y con ellos no pretendo yo animar a que uséis una herramienta ilegal como [SciHub](https://sci-hub.hkvisa.net/).
 
-+ El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-Hub...](https://es.wikipedia.org/wiki/Sci-Hub)). Para conectar a la red UCO hay dos opciones:
++ El acceso a la literatura científica desde ordenadores que están fuera de la red UCO es requiere desembolso económico (a nos ser que uséis [Sci-Hub](https://es.wikipedia.org/wiki/Sci-Hub). Pero no lo uséis porque es ilegal). Para conectar a la red UCO hay dos opciones:
   + Configurar un acceso vía VPN desde vuestro ordenador. [Aquí](http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn) tenéis las instrucciones.
   + Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. [Aquí](https://www.uco.es/servicios/informatica/novedades/185-acceso-remoto-a-los-escritorios) tenéis las instrucciones de acceso.
 
@@ -89,28 +87,37 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
 
 + Herramientas de inteligencia artificial. Desde hace un par de años más o menos, las herramientas de inteligencia artificial que son capaces de escribir textos (las llamadas IAs generativas y bots conversacionales), se han convertido el la última moda en cuanto a manejo de información digital. No se trata de una moda pasajera. Están aquí para quedarse y probablemente cambien drásticamente la forma en la que nos relacionamos con la información. Igual que internet aportó un repositorio global de información accesible al instante, las IAs generativas nos ayudarán a pensar mejor, plantear preguntas más oportunas y abordar retos impensables hasta ahora. Es nuestra responsabilidad usarlas para el bien común. En esta práctica empezaremos a usar algunas herramientas IA que serán muy comunes durante toda la asignatura. Además de aprender su uso, es importante que tengas en cuenta [estas](https://rawcdn.githack.com/aprendiendo-cosas/ecologia_CCAA_UCO/master/normas_IA.html) normas que usaremos para su manejo. A continuación se describen brevemente las herramientas que utilizaremos:
   + [ChatGPT](https://chat.openai.com/) es una IA conversacional. Es capaz de redactar textos elaborados a partir de una pregunta cualquiera por parte del usuario. Es capaz de escribir correctamente y puede ser muy útil para resumir textos, estructurar y esquematizar contenido, elaborar guiones, etc. Para obtener buenos resultados de esta herramienta es importante que las preguntas estén bien planteadas y que repreguntemos ante sus respuestas. En [este](https://www.youtube.com/watch?si=dwyE-O02BnqwOH1k&v=ru_ltZA6NTM&feature=youtu.be) vídeo puedes ver con más detalle cómo proceder. 
-
   + [Elicit](https://elicit.org/) es otra IA conversacional, pero en este caso está especialmente diseñada para resumir artículos científicos. Ante una pregunta cualquiera, devuelve una lista de artículos que abordan el tema preguntado y ofrece un resultado consensuado de todos ellos. 
-
-  + [Consensus](https://consensus.app) tiene unas funciones parecidas a Elicit.
-
   + [Perplexity](https://www.perplexity.ai/) recoge, en mi opinión, ventajas de las dos herramientas anteriores. Es capaz de responder preguntas complejas elaborando un texto muy rico y diverso, pero además añade las referencias bibliográficas que ha usado para construir el texto. 
-  
   + [Notebook LM](https://notebooklm.google.com/) es una herramienta creada por google especialmente para ser utilizada como asistente o copiloto del aprendizaje. Su característica fundamental es que permite analizar con detalle información contenida en documentos específicamente suministrados por el usuario al modelo de lenguaje. Es decir, permite "conversar" con textos que se han subido previamente a la plataforma. Las consultas se circunscriben exclusivamente a dichos textos. Además, contiene herramientas que permiten crear resúmenes sonoros (podcasts) del material subido a la plataforma. Es muy útil porque constituye, de alguna manera, una réplica digital del profesor de una asignatura. 
   
+  Propongo usar las herramientas anteriores de la siguiente manera:
+  
+  + Para buscar fuentes de información fiables sobre el tema del que queramos aprender, sugiero usar Perplexity y Elicit. Además de ser IAs que generan textos, aportan fuentes de información valiosas de distintos tipo.
+  + También se pueden usar Google Scholar o Web Of Science para buscar literatura científica.
+  + Tras revisar la bibliografía aportada por las herramientas anteriores, seleccionaremos las fuentes más relevantes. Luego las subiremos a un cuaderno personal de Notebook LM. En dicho cuaderno podremos usar las funciones de conversación, creación de podcasts, vídeos, etc. Con los resultados de este proceso de interacción con la IA aprenderemos lo que necesitamos sobre nuestro ecosistema.
+  + Para avanzar más en detalles concretos, podemos conversar con ChatGPT. 
+  
   
 
 
-## Cronología de la práctica y pasos a dar
+## Resultados esperados en esta práctica
+
+La idea es que busques información relevante sobre tu ecosistema usando las herramientas mostradas en esta práctica. También debes usar una aproximación similar para estudiar la asignatura en su conjunto. Para el trabajo de caracterización de ecosistemas tendrás que:
+
++ Recopilar todas las fuentes de información relevantes en una carpeta de tu ordenador. Tendrás que compartir esa información con el profesor a la hora de entregar el trabajo.
++ Almacena también las conversaciones que tengas con las IAs para recopilar información. También tendrás que entregarlas.
++ Comparte con el profesor (fjbonet@gmail.com) el Notebook que crees con las fuentes de información que hayas considerado relevantes.
 
 
 
+## Información relevante general para todos los ecosistemas
+
+La siguiente lista muestra fuentes de información generales que servirán para todos los ecosistemas:
+
++ 
 
 
-## A modo de conclusión
-La recopilación de documentación sobre cualquier aspecto que nos interese, no es solo la primera fase de casi cualquier trabajo. Es algo que debemos de mantener durante toda la actividad. En esta primera aproximación habéis adquirido algunas competencias para buscar información, sintentizarla y compartirla. Debéis seguir entrenando esas competencias durante toda la asignatura (y me atrevería a decir que durante toda la vida).
-
-En el segundo cuatrimestre daremos una "vuelta de tuerca" a la competencia de búsqueda de documentación. Trabajaremos con gestores de bibliografía que nos permiten documentar adecuadamente los informes y artículos de interés que vayamos encontrando.
 
 
 

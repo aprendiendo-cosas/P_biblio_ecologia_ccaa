@@ -96,9 +96,9 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
 
   + [Perplexity](https://www.perplexity.ai/) recoge, en mi opinión, ventajas de las dos herramientas anteriores. Es capaz de responder preguntas complejas elaborando un texto muy rico y diverso, pero además añade las referencias bibliográficas que ha usado para construir el texto. 
   
-  + [Notebook LM](https://notebooklm.google.com/) es una herramienta creada por google especialmente para ser utilizada como asistente o copiloto del aprendizaje. Su característica fundamental es que permite analizar con detalle información contenida en documentos específicamente suministrados por el usuario al modelo de lenguaje. Es decir, permite "conversar" con 
-
-
+  + [Notebook LM](https://notebooklm.google.com/) es una herramienta creada por google especialmente para ser utilizada como asistente o copiloto del aprendizaje. Su característica fundamental es que permite analizar con detalle información contenida en documentos específicamente suministrados por el usuario al modelo de lenguaje. Es decir, permite "conversar" con textos que se han subido previamente a la plataforma. Las consultas se circunscriben exclusivamente a dichos textos. Además, contiene herramientas que permiten crear resúmenes sonoros (podcasts) del material subido a la plataforma. Es muy útil porque constituye, de alguna manera, una réplica digital del profesor de una asignatura. 
+  
+  
 
 
 ## Cronología de la práctica y pasos a dar

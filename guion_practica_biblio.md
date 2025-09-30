@@ -19,7 +19,7 @@ La finalidad última de esta práctica es aportar al estudiante algunas herramie
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
 
 
 
@@ -27,11 +27,11 @@ Lamentablemente la verdad en sentido estricto no existe (o no es fácil de encon
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
 
 
 
@@ -58,10 +58,10 @@ En esta sección describimos brevemente cómo se almacena el conocimiento cient�
 
 #### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2024_2025/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/presentacion/publicaciones.html) enlace. 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2024_2025/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/presentacion/publicaciones.html"
   style="width:100%; height:550px;"
 ></iframe>
 
@@ -85,7 +85,7 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
   + [Vídeo resumiendo las ideas principales de los gestores de bibliografía.](https://www.youtube.com/watch?v=irhO95TOdY0)
   + [Gestores bibliográficos: recomendaciones para su aprovechamiento en la academia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0qaDo5Zj2AhWOjaQKHcvlDWgQFnoECAMQAQ&url=https%3A%2F%2Fjasolutions.com.co%2Fwp-content%2Fuploads%2F2017%2F04%2FGetoresBibliograficos.pdf&usg=AOvVaw08ocEm3v9UCAYvhWr20_IU)
 
-+ Herramientas de inteligencia artificial. Desde hace un par de años más o menos, las herramientas de inteligencia artificial que son capaces de escribir textos (las llamadas IAs generativas y bots conversacionales), se han convertido el la última moda en cuanto a manejo de información digital. No se trata de una moda pasajera. Están aquí para quedarse y probablemente cambien drásticamente la forma en la que nos relacionamos con la información. Igual que internet aportó un repositorio global de información accesible al instante, las IAs generativas nos ayudarán a pensar mejor, plantear preguntas más oportunas y abordar retos impensables hasta ahora. Es nuestra responsabilidad usarlas para el bien común. En esta práctica empezaremos a usar algunas herramientas IA que serán muy comunes durante toda la asignatura. Además de aprender su uso, es importante que tengas en cuenta [estas](https://rawcdn.githack.com/aprendiendo-cosas/ecologia_CCAA_UCO/master/normas_IA.html) normas que usaremos para su manejo. A continuación se describen brevemente las herramientas que utilizaremos:
++ Herramientas de inteligencia artificial. Desde hace un par de años más o menos, las herramientas de inteligencia artificial que son capaces de escribir textos (las llamadas IAs generativas y bots conversacionales), se han convertido el la última moda en cuanto a manejo de información digital. No se trata de una moda pasajera. Están aquí para quedarse y probablemente cambien drásticamente la forma en la que nos relacionamos con la información. Igual que internet aportó un repositorio global de información accesible al instante, las IAs generativas nos ayudarán a pensar mejor, plantear preguntas más oportunas y abordar retos impensables hasta ahora. Es nuestra responsabilidad usarlas para el bien común. En esta práctica empezaremos a usar algunas herramientas IA que serán muy comunes durante toda la asignatura. Además de aprender su uso, es importante que tengas en cuenta [estas](https://rawcdn.githack.com/aprendiendo-cosas/ecologia_CCAA_UCO/main/normas_IA.html) normas que usaremos para su manejo. A continuación se describen brevemente las herramientas que utilizaremos:
   + [ChatGPT](https://chat.openai.com/) es una IA conversacional. Es capaz de redactar textos elaborados a partir de una pregunta cualquiera por parte del usuario. Es capaz de escribir correctamente y puede ser muy útil para resumir textos, estructurar y esquematizar contenido, elaborar guiones, etc. Para obtener buenos resultados de esta herramienta es importante que las preguntas estén bien planteadas y que repreguntemos ante sus respuestas. En [este](https://www.youtube.com/watch?si=dwyE-O02BnqwOH1k&v=ru_ltZA6NTM&feature=youtu.be) vídeo puedes ver con más detalle cómo proceder. 
   + [Elicit](https://elicit.org/) es otra IA conversacional, pero en este caso está especialmente diseñada para resumir artículos científicos. Ante una pregunta cualquiera, devuelve una lista de artículos que abordan el tema preguntado y ofrece un resultado consensuado de todos ellos. 
   + [Perplexity](https://www.perplexity.ai/) recoge, en mi opinión, ventajas de las dos herramientas anteriores. Es capaz de responder preguntas complejas elaborando un texto muy rico y diverso, pero además añade las referencias bibliográficas que ha usado para construir el texto. 
@@ -115,15 +115,9 @@ La idea es que busques información relevante sobre tu ecosistema usando las her
 
 La siguiente lista muestra fuentes de información generales que servirán para todos los ecosistemas:
 
-+ 
-
-
-
-
-
-
-
-
++ [*Sierra Nevada. Datos básicos*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/Dossier_OCGSN_2010.pdf). Es el libro del que saqué la idea de generar una ficha tipo para cada ecosistema. En él podréis ver ejemplos y características de los principales ecosistemas de Sierra Nevada.
++ [*Guía del parque nacional de Sierra Nevada*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/guia-sierra-nevada.pdf). Se trata de una guía oficial de este espacio protegido. Es muy larga, pero en ella podrás ver descripciones detalladas de los ecosistemas que estamos estudiando.
++ Extracto del libro [*Parque Natural de Sierra Nevada. Paisaje. Flora. Fauna. Itinerarios*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/vegetacion_sierra_nevada.pdf). Es un extracto escaneado del mencionado libro. Describe los principales tipos de ecosistemas usando como marco conceptual las series de vegetación. Este concepto lo estudiaremos más adelante en clase de teoría. 
 
 
 
@@ -132,7 +126,7 @@ La siguiente lista muestra fuentes de información generales que servirán para 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.

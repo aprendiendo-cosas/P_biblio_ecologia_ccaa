@@ -5,7 +5,7 @@
 > + **_Versión_**: 2026-2027
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Duración_**:  1 sesión de 2 horas en clase y otras dos en casa.
+> + **_Duración_**:  1 sesión de 2 horas en clase y otras dos horas en casa.
 
 
 

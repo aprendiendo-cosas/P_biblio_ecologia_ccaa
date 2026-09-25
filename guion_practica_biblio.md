@@ -9,7 +9,11 @@
 
 
 
-## Objetivos 
+[TOC]
+
+---
+
+## 1 Objetivos 
 
 Esta práctica es la primera de la asignatura y quizás la más compleja de todas. Aborda cuestiones que no hemos resuelto todavía como sociedad: 
 + Cómo navegar en el proceloso mar de información en el que se ha convertido internet.
@@ -52,11 +56,11 @@ Para ser la primera práctica tiene unos objetivos ambiciosos... Veamos cómo va
 
 
 
-## Herramientas que usaremos en la práctica
+## 2 Herramientas que usaremos en la práctica
 
 En esta sección describimos brevemente cómo se almacena el conocimiento científico y cómo se accede a él. Será la única sección que se explicará el día de la práctica. 
 
-#### Las unidades elementales en las que se almacena el conocimiento: artículos (científicos, de opinión, etc.)
+### 2.1 Las unidades elementales en las que se almacena el conocimiento
 
 La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/presentacion/publicaciones.html) enlace. 
 
@@ -67,9 +71,15 @@ La característica estructural básica de la información científica es que se 
 
 
 
-#### Formas de acceder al conocimiento científico
+### 2.2 Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos años están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las siguientes herramientas:
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos años están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las herramientas que se muestran en el siguiente mapa mental y se describen en esta sección. El mapa se puede descargar en formato xmind desde este enlace. 
+
+<iframe
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
+  style="width:100%; height:550px;"
+></iframe>
+
 
 + Buscadores de bibliografía. Los artículos científicos son publicados por editoriales privadas que permiten su descarga (previo pago) a través de sus webs particulares. Pero a la vez hay webs que indexan todos los artículos que se van publicando y los ponen a disposición de los usuarios. Estos catálogos on line son la forma más habitual de buscar artículos científicos (y a veces informes) en internet. Ahí van algunos catálogos:
   + [Google Scholar](https://scholar.google.es/) es un buscador con pocas opciones, pero que tiene la ventaja del algoritmo de búsqueda de Google.
@@ -80,38 +90,44 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
   + Configurar un acceso vía VPN desde vuestro ordenador. [Aquí](http://www.uco.es/servicios/informatica/conexion-externa-con-openvpn) tenéis las instrucciones.
   + Acceder a las máquinas virtuales que tenemos en la UCO asociadas a nuestro usuario. [Aquí](https://www.uco.es/servicios/informatica/novedades/185-acceso-remoto-a-los-escritorios) tenéis las instrucciones de acceso.
 
-+ Gestores de bibliografía. Ante la gran cantidad de publicaciones disponibles se hace necesario utilizar aplicaciones informáticas que nos permiten gestionar bibliografía. Estas herramientas serán muy útiles en vuestro trabajo diario y más aún cuando estéis haciendo el TFG. Por eso, a continuación os paso algo de información para que os familiaricéis con la idea:
-  + [Guía de la UCO sobre gestores de bibliografía.](https://biblioguias.uco.es/gestores)
-  + [Vídeo resumiendo las ideas principales de los gestores de bibliografía.](https://www.youtube.com/watch?v=irhO95TOdY0)
-  + [Gestores bibliográficos: recomendaciones para su aprovechamiento en la academia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0qaDo5Zj2AhWOjaQKHcvlDWgQFnoECAMQAQ&url=https%3A%2F%2Fjasolutions.com.co%2Fwp-content%2Fuploads%2F2017%2F04%2FGetoresBibliograficos.pdf&usg=AOvVaw08ocEm3v9UCAYvhWr20_IU)
-
 + Herramientas de inteligencia artificial. Desde hace un par de años más o menos, las herramientas de inteligencia artificial que son capaces de escribir textos (las llamadas IAs generativas y bots conversacionales), se han convertido el la última moda en cuanto a manejo de información digital. No se trata de una moda pasajera. Están aquí para quedarse y probablemente cambien drásticamente la forma en la que nos relacionamos con la información. Igual que internet aportó un repositorio global de información accesible al instante, las IAs generativas nos ayudarán a pensar mejor, plantear preguntas más oportunas y abordar retos impensables hasta ahora. Es nuestra responsabilidad usarlas para el bien común. En esta práctica empezaremos a usar algunas herramientas IA que serán muy comunes durante toda la asignatura. Además de aprender su uso, es importante que tengas en cuenta [estas](https://rawcdn.githack.com/aprendiendo-cosas/ecologia_CCAA_UCO/main/normas_IA.html) normas que usaremos para su manejo. A continuación se describen brevemente las herramientas que utilizaremos:
   + [ChatGPT](https://chat.openai.com/) es una IA conversacional. Es capaz de redactar textos elaborados a partir de una pregunta cualquiera por parte del usuario. Es capaz de escribir correctamente y puede ser muy útil para resumir textos, estructurar y esquematizar contenido, elaborar guiones, etc. Para obtener buenos resultados de esta herramienta es importante que las preguntas estén bien planteadas y que repreguntemos ante sus respuestas. En [este](https://www.youtube.com/watch?si=dwyE-O02BnqwOH1k&v=ru_ltZA6NTM&feature=youtu.be) vídeo puedes ver con más detalle cómo proceder. 
   + [Elicit](https://elicit.org/) es otra IA conversacional, pero en este caso está especialmente diseñada para resumir artículos científicos. Ante una pregunta cualquiera, devuelve una lista de artículos que abordan el tema preguntado y ofrece un resultado consensuado de todos ellos. 
   + [Perplexity](https://www.perplexity.ai/) recoge, en mi opinión, ventajas de las dos herramientas anteriores. Es capaz de responder preguntas complejas elaborando un texto muy rico y diverso, pero además añade las referencias bibliográficas que ha usado para construir el texto. 
   + [Notebook LM](https://notebooklm.google.com/) es una herramienta creada por google especialmente para ser utilizada como asistente o copiloto del aprendizaje. Su característica fundamental es que permite analizar con detalle información contenida en documentos específicamente suministrados por el usuario al modelo de lenguaje. Es decir, permite "conversar" con textos que se han subido previamente a la plataforma. Las consultas se circunscriben exclusivamente a dichos textos. Además, contiene herramientas que permiten crear resúmenes sonoros (podcasts) del material subido a la plataforma. Es muy útil porque constituye, de alguna manera, una réplica digital del profesor de una asignatura. 
   
-  Propongo usar las herramientas anteriores de la siguiente manera:
+
+Propongo usar las herramientas anteriores de la siguiente manera:
+
++ Para buscar fuentes de información fiables sobre el tema del que queramos aprender, sugiero usar Perplexity y Elicit. Además de ser IAs que generan textos, aportan fuentes de información valiosas de distintos tipo.
++ También se pueden usar Google Scholar o Web Of Science para buscar literatura científica.
++ Tras revisar la bibliografía aportada por las herramientas anteriores, seleccionaremos las fuentes más relevantes. Luego las subiremos a un cuaderno personal de Notebook LM. En dicho cuaderno podremos usar las funciones de conversación, creación de podcasts, vídeos, etc. Con los resultados de este proceso de interacción con la IA aprenderemos lo que necesitamos sobre nuestro ecosistema.
++ Para avanzar más en detalles concretos, podemos conversar con ChatGPT. 
   
-  + Para buscar fuentes de información fiables sobre el tema del que queramos aprender, sugiero usar Perplexity y Elicit. Además de ser IAs que generan textos, aportan fuentes de información valiosas de distintos tipo.
-  + También se pueden usar Google Scholar o Web Of Science para buscar literatura científica.
-  + Tras revisar la bibliografía aportada por las herramientas anteriores, seleccionaremos las fuentes más relevantes. Luego las subiremos a un cuaderno personal de Notebook LM. En dicho cuaderno podremos usar las funciones de conversación, creación de podcasts, vídeos, etc. Con los resultados de este proceso de interacción con la IA aprenderemos lo que necesitamos sobre nuestro ecosistema.
-  + Para avanzar más en detalles concretos, podemos conversar con ChatGPT. 
+  
+  
+### 2.3 Gestores de bibliografía.
+
+Ante la gran cantidad de publicaciones disponibles se hace necesario utilizar aplicaciones informáticas que nos permiten gestionar bibliografía. Estas herramientas serán muy útiles en vuestro trabajo diario y más aún cuando estéis haciendo el TFG. Por eso, a continuación os paso algo de información para que os familiaricéis con la idea:
+
++ [Guía de la UCO sobre gestores de bibliografía.](https://biblioguias.uco.es/gestores)
++ [Vídeo resumiendo las ideas principales de los gestores de bibliografía.](https://www.youtube.com/watch?v=irhO95TOdY0)
++ [Gestores bibliográficos: recomendaciones para su aprovechamiento en la academia](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0qaDo5Zj2AhWOjaQKHcvlDWgQFnoECAMQAQ&url=https%3A%2F%2Fjasolutions.com.co%2Fwp-content%2Fuploads%2F2017%2F04%2FGetoresBibliograficos.pdf&usg=AOvVaw08ocEm3v9UCAYvhWr20_IU)
   
   
 
 
-## Resultados esperados en esta práctica
+## 3. Resultados esperados en esta práctica
 
 La idea es que busques información relevante sobre tu ecosistema usando las herramientas mostradas en esta práctica. También debes usar una aproximación similar para estudiar la asignatura en su conjunto. Para el trabajo de caracterización de ecosistemas tendrás que:
 
-+ Recopilar todas las fuentes de información relevantes en una carpeta de tu ordenador. Tendrás que compartir esa información con el profesor a la hora de entregar el trabajo.
++ Recopilar todas las fuentes de información relevantes en una carpeta de tu ordenador. Tendrás que compartir esa información con el profesor a la hora de entregar el trabajo. Para compartir esta información puedes subirla a una carpeta de Microsoft Onedrive. En ese caso, usa mi correo de la UCO para compartir: bv2bogaf@uco.es
 + Almacena también las conversaciones que tengas con las IAs para recopilar información. También tendrás que entregarlas.
 + Comparte con el profesor (fjbonet@gmail.com) el Notebook que crees con las fuentes de información que hayas considerado relevantes.
 
 
 
-## Información relevante general para todos los ecosistemas
+## 4. Información relevante general para todos los ecosistemas
 
 La siguiente lista muestra fuentes de información generales que servirán para todos los ecosistemas:
 

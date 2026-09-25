@@ -1,266 +1,64 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<title>C&#243;mo acceder a la informaci&#243;n cient&#237;fica</title>
-<style type="text/css">
-    li { list-style: none;  margin: 0; }
-    p { margin: 0; }
-    span.foldopened { color: white; font-size: xx-small;
-    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
-    VISIBILITY: visible;
-    cursor:pointer; }
-
-
-    span.foldclosed { color: #666666; font-size: xx-small;
-    border-width: 1; font-family: monospace; padding: 0em 0.25em 0em 0.25em; background: #e0e0e0;
-    VISIBILITY: hidden;
-    cursor:pointer; }
-
-    span.foldspecial { color: #666666; font-size: xx-small; border-style: none solid solid none;
-    border-color: #CCCCCC; border-width: 1; font-family: sans-serif; padding: 0em 0.1em 0em 0.1em; background: #e0e0e0;
-    cursor:pointer; }
-
-    span.l { color: red; font-weight: bold; }
-
-    a.mapnode:link {text-decoration: none; color: black; }
-    a.mapnode:visited {text-decoration: none; color: black; }
-    a.mapnode:active {text-decoration: none; color: black; }
-    a.mapnode:hover {text-decoration: none; color: black; background: #eeeee0; }
-
-</style>
-<!-- ^ Position is not set to relative / absolute here because of Mozilla -->
-</head>
-<body>
-
-<script type="text/javascript">
-   // Here we implement folding. It works fine with MSIE5.5, MSIE6.0 and
-   // Mozilla 0.9.6.
-
-   if (document.layers) {
-      //Netscape 4 specific code
-      pre = 'document.';
-      post = ''; }
-   if (document.getElementById) {
-      //Netscape 6 specific code
-      pre = 'document.getElementById("';
-      post = '").style'; }
-   if (document.all) {
-      //IE4+ specific code
-      pre = 'document.all.';
-      post = '.style'; }
-
-function layer_exists(layer) {
-   try {
-      eval(pre + layer + post);
-      return true; }
-   catch (error) {
-      return false; }}
-
-function show_layer(layer) {
-   eval(pre + layer + post).position = 'relative'; 
-   eval(pre + layer + post).visibility = 'visible'; }
-
-function hide_layer(layer) {
-   eval(pre + layer + post).visibility = 'hidden';
-   eval(pre + layer + post).position = 'absolute'; }
-
-function hide_folder(folder) {
-    hide_folding_layer(folder)
-    show_layer('show'+folder);
-
-    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
-}
-
-function show_folder(folder) {
-    // Precondition: all subfolders are folded
-
-    show_layer('hide'+folder);
-    hide_layer('show'+folder);
-    show_layer('fold'+folder);
-
-    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
-
-    var i;
-    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
-       show_layer('show'+folder+'_'+i); }
-}
-function show_folder_completely(folder) {
-    // Precondition: all subfolders are folded
-
-    show_layer('hide'+folder);
-    hide_layer('show'+folder);
-    show_layer('fold'+folder);
-
-    scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
-
-    var i;
-    for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
-       show_folder_completely(folder+'_'+i); }
-}
-
-
-
-function hide_folding_layer(folder) {
-   var i;
-   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
-       hide_folding_layer(folder+'_'+i); }
-
-   hide_layer('hide'+folder);
-   hide_layer('show'+folder);
-   hide_layer('fold'+folder);
-
-   scrollBy(0,0); // This is a work around to make it work in Browsers (Explorer, Mozilla)
-}
-
-function fold_document() {
-   var i;
-   var folder = '1';
-   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
-       hide_folder(folder+'_'+i); }
-}
-
-function unfold_document() {
-   var i;
-   var folder = '1';
-   for (i=1; layer_exists('fold'+folder+'_'+i); ++i) {
-       show_folder_completely(folder+'_'+i); }
-}
-
-</script>
-<SPAN class="foldspecial" onclick="fold_document()">All +</SPAN>
-<SPAN class="foldspecial" onclick="unfold_document()">All -</SPAN>
-<p>C&#243;mo acceder a la informaci&#243;n cient&#237;fica
-<ul><li><span id="show1_1" class="foldclosed" onClick="show_folder('1_1')" style="POSITION: absolute">+</span> <span id="hide1_1" class="foldopened" onClick="hide_folder('1_1')">-</span>
-Tipos de publicaciones a efectos de su accesibilidad
-<ul id="fold1_1" style="POSITION: relative; VISIBILITY: visible;"><li>Open access: libres para todos en internet.
-
-</li>
-<li>De pago: Solo son accesibles si pagas t&#250; o tu instituci&#243;n.
-
-</li>
-
-</ul>
-</li>
-<li><span id="show1_2" class="foldclosed" onClick="show_folder('1_2')" style="POSITION: absolute">+</span> <span id="hide1_2" class="foldopened" onClick="hide_folder('1_2')">-</span>
-Buscadores de bibliograf&#237;a
-<ul id="fold1_2" style="POSITION: relative; VISIBILITY: visible;"><li><p><span id="show1_2_1" class="foldclosed" onClick="show_folder('1_2_1')" style="POSITION: absolute">+</span> <span id="hide1_2_1" class="foldopened" onClick="hide_folder('1_2_1')">-</span>
-Cada revista publica art&#237;culos en sus propios servidores y los ofrece (gratis o previo pago) en sus webs.
-<ul id="fold1_2_1" style="POSITION: relative; VISIBILITY: visible;"><li>Buscar as&#237; es un poco complejo porque hay que ir revista a revista.
-
-</li>
-
-</ul><p><span id="show1_2_2" class="foldclosed" onClick="show_folder('1_2_2')" style="POSITION: absolute">+</span> <span id="hide1_2_2" class="foldopened" onClick="hide_folder('1_2_2')">-</span>
-Adem&#225;s hay varios cat&#225;logos que agregan las publicaciones de diversas revistas.
-<ul id="fold1_2_2" style="POSITION: relative; VISIBILITY: visible;"><li>Esto es mucho m&#225;s c&#243;modo porque permite buscar por autores, palabras clave, t&#237;tulos, etc.
-
-</li>
-
-</ul><p><span id="show1_2_3" class="foldclosed" onClick="show_folder('1_2_3')" style="POSITION: absolute">+</span> <span id="hide1_2_3" class="foldopened" onClick="hide_folder('1_2_3')">-</span>
-Ejemplos
-<ul id="fold1_2_3" style="POSITION: relative; VISIBILITY: visible;"><li><span id="show1_2_3_1" class="foldclosed" onClick="show_folder('1_2_3_1')" style="POSITION: absolute">+</span> <span id="hide1_2_3_1" class="foldopened" onClick="hide_folder('1_2_3_1')">-</span>
-<a href="https://en.wikipedia.org/wiki/Google_Scholar" target="_blank"><span class=l>~</span>&nbsp;Google Scholar / Google Acad&#233;mico
-</a>
-<ul id="fold1_2_3_1" style="POSITION: relative; VISIBILITY: visible;"><li>B&#250;squeda plana, sin muchas opciones de personalizaci&#243;n.
-
-</li>
-
-</ul>
-</li>
-<li><span id="show1_2_3_2" class="foldclosed" onClick="show_folder('1_2_3_2')" style="POSITION: absolute">+</span> <span id="hide1_2_3_2" class="foldopened" onClick="hide_folder('1_2_3_2')">-</span>
-<a href="https://www.webofscience.com/wos/woscc/basic-search" target="_blank"><span class=l>~</span>&nbsp;Web of Science
-</a>
-<ul id="fold1_2_3_2" style="POSITION: relative; VISIBILITY: visible;"><li>B&#250;squeda muy detallada
-
-</li>
-<li>Opci&#243;n de personalizar b&#250;squedas
-
-</li>
-<li>Opci&#243;n de exportar resultados
-
-</li>
-
-</ul>
-</li>
-<li><span id="show1_2_3_3" class="foldclosed" onClick="show_folder('1_2_3_3')" style="POSITION: absolute">+</span> <span id="hide1_2_3_3" class="foldopened" onClick="hide_folder('1_2_3_3')">-</span>
-<a href="https://www.researchgate.net/" target="_blank"><span class=l>~</span>&nbsp;ResearchGate
-</a>
-<ul id="fold1_2_3_3" style="POSITION: relative; VISIBILITY: visible;"><li>En realidad no es un buscador de bibliograf&#237;a, sino una red social para cient&#237;ficos.
-
-</li>
-<li>Muchos investigadores suben ah&#237; sus publicaciones y las dejan en abierto.
-
-</li>
-
-</ul>
-</li>
-<li><span id="show1_2_3_4" class="foldclosed" onClick="show_folder('1_2_3_4')" style="POSITION: absolute">+</span> <span id="hide1_2_3_4" class="foldopened" onClick="hide_folder('1_2_3_4')">-</span>
-<a href="https://www.sciencedirect.com/" target="_blank"><span class=l>~</span>&nbsp;Sciencedirect
-</a>
-<ul id="fold1_2_3_4" style="POSITION: relative; VISIBILITY: visible;"><li>Buscador propiedad de una de las editoriales m&#225;s potentes (Elsevier)
-
-</li>
-
-</ul>
-</li>
-<li><span id="show1_2_3_5" class="foldclosed" onClick="show_folder('1_2_3_5')" style="POSITION: absolute">+</span> <span id="hide1_2_3_5" class="foldopened" onClick="hide_folder('1_2_3_5')">-</span>
-SciHub
-<ul id="fold1_2_3_5" style="POSITION: relative; VISIBILITY: visible;"><li><a href="https://es.wikipedia.org/wiki/Sci-hub" target="_blank"><span class=l>~</span>&nbsp;Art&#237;culo wikipedia
-</a>
-
-</li>
-<li><a href="https://sci-hub.se/" target="_blank"><span class=l>~</span>&nbsp;Sitio (actual. Cambia mucho de ubicaci&#243;n)
-</a>
-
-</li>
-
-</ul>
-</li>
-
-</ul></li>
-</ul>
-</li>
-<li><span id="show1_3" class="foldclosed" onClick="show_folder('1_3')" style="POSITION: absolute">+</span> <span id="hide1_3" class="foldopened" onClick="hide_folder('1_3')">-</span>
-Inteligencias artificiales que ayudan (o no)
-<ul id="fold1_3" style="POSITION: relative; VISIBILITY: visible;"><li><p>Este mundo est&#225; en plena ebullici&#243;n en la actualidad, as&#237; que hay poco concreto. Veremos algunas iniciativas
-<p><span id="show1_3_1" class="foldclosed" onClick="show_folder('1_3_1')" style="POSITION: absolute">+</span> <span id="hide1_3_1" class="foldopened" onClick="hide_folder('1_3_1')">-</span>
-<a href="https://chat.openai.com/chat" target="_blank"><span class=l>~</span>&nbsp;ChatGPT
-</a>
-<ul id="fold1_3_1" style="POSITION: relative; VISIBILITY: visible;"><li>Es la inteligencia artificial de moda.
-
-</li>
-<li>Responde preguntas sin aportar referencias.
-
-</li>
-<li>Escribe muy bien. Quiz&#225;s mejor que t&#250;...
-
-</li>
-
-</ul><p><span id="show1_3_2" class="foldclosed" onClick="show_folder('1_3_2')" style="POSITION: absolute">+</span> <span id="hide1_3_2" class="foldopened" onClick="hide_folder('1_3_2')">-</span>
-<a href="https://elicit.org/" target="_blank"><span class=l>~</span>&nbsp;Elicit
-</a>
-<ul id="fold1_3_2" style="POSITION: relative; VISIBILITY: visible;"><li>Extrae s&#237;ntesis de conocimiento de miles de art&#237;culos cient&#237;ficos.
-
-</li>
-<li>Ofrece art&#237;culos y res&#250;menes de los mismos
-
-</li>
-
-</ul><p><span id="show1_3_3" class="foldclosed" onClick="show_folder('1_3_3')" style="POSITION: absolute">+</span> <span id="hide1_3_3" class="foldopened" onClick="hide_folder('1_3_3')">-</span>
-<a href="https://www.perplexity.ai/" target="_blank"><span class=l>~</span>&nbsp;Perplexity
-</a>
-<ul id="fold1_3_3" style="POSITION: relative; VISIBILITY: visible;"><li>Es capaz de responder preguntas complejas. 
-
-</li>
-<li>Aporta referencias cient&#237;ficas a las respuestas
-
-</li>
-
-</ul></li>
-</ul>
-</li>
-
-</ul><SCRIPT type="text/javascript">
-fold_document();
-</SCRIPT>
-</body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="treestyles.css" type="text/css"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!--This file has been created with toxhtml.xsl--><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /><title>Cómo acceder a la información científica</title><link rel="stylesheet" href="acceso_conocimiento.html_files/treestyles.css" type="text/css" /><script type="text/javascript" src="acceso_conocimiento.html_files/marktree.js"> 
+	</script></head><body><div class="basetop"><a onclick="expandAll(document.getElementById('base'))" href="#">Expand</a> -
+<a onclick="collapseAll(document.getElementById('base'))" href="#">Collapse</a></div><div class="basetext" id="base"><ul>
+	<li class="col" id="FM6djpp1iloag455rrh53vbvlb8uFM"><div class="nodecontent">Cómo acceder a la información científica</div>
+		<ul class="subexp">
+	<li class="exp" id="FM0lehg7h0j9lm48mjj8t152b9nuFM"><div class="nodecontent">Tipos de publicaciones a efectos de su accesibilidad</div>
+		<ul class="sub">
+	<li class="basic" id="FM3fs3dcaadi4rrqfruaghvqdv07FM"><div class="nodecontent">Open access: libres para todos en internet.</div></li>
+	<li class="basic" id="FM5li3n0j0kpjeph1dl20986bsamFM"><div class="nodecontent">De pago: Solo son accesibles si pagas tú o tu institución.</div></li></ul></li>
+	<li class="exp" id="FM2kctb7uoem6lk76ij8bhkim069FM"><div class="nodecontent">Buscadores de bibliografía</div>
+		<ul class="sub">
+	<li class="exp" id="FM2ir5tk7raj0e3n0q00bod7j0aaFM"><div class="nodecontent">Cada revista publica artículos en sus propios servidores y los ofrece (gratis o previo pago) en sus webs.</div>
+		<ul class="sub">
+	<li class="basic" id="FM4hiuog35irmfk7rsv7edmk4p51FM"><div class="nodecontent">Buscar así es un poco complejo porque hay que ir revista a revista.</div></li></ul></li>
+	<li class="exp" id="FM2k12cskhnakslgltghbhtui7csFM"><div class="nodecontent">Además hay varios catálogos que agregan las publicaciones de diversas revistas.</div>
+		<ul class="sub">
+	<li class="basic" id="FM02amjkhll4l91udrk3rjtgjrqfFM"><div class="nodecontent">Esto es mucho más cómodo porque permite buscar por autores, palabras clave, títulos, etc.</div></li></ul></li>
+	<li class="exp" id="FM1a233hdgovj0du244vlkduks4cFM"><div class="nodecontent">Ejemplos</div>
+		<ul class="sub">
+	<li class="exp" id="FM67mtfu48be9fgb2m6bce9a8i7lFM"><div class="nodecontent"><a href="https://en.wikipedia.org/wiki/Google_Scholar">Google Scholar / Google Académico</a> <a href="https://en.wikipedia.org/wiki/Google_Scholar"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div>
+		<ul class="sub">
+	<li class="basic" id="FM64ive7djpb7th1j79363qlu6lrFM"><div class="nodecontent">Búsqueda plana, sin muchas opciones de personalización.</div></li></ul></li>
+	<li class="exp" id="FM61q1gdlqrmv104fv8f1152fa5jFM"><div class="nodecontent"><a href="https://www.webofscience.com/wos/woscc/basic-search">Web of Science</a> <a href="https://www.webofscience.com/wos/woscc/basic-search"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div>
+		<ul class="sub">
+	<li class="basic" id="FM0ngvn4j24ckd5nqkde1bd3fbbbFM"><div class="nodecontent">Búsqueda muy detallada</div></li>
+	<li class="basic" id="FM0pfohn77nsi2if90duip5thft4FM"><div class="nodecontent">Opción de personalizar búsquedas</div></li>
+	<li class="basic" id="FM4tkc6p6gd9nnmfppu2brmgp4e3FM"><div class="nodecontent">Opción de exportar resultados</div></li></ul></li>
+	<li class="exp" id="FM5q9uvbg5g5fuk6e7b365abr0mgFM"><div class="nodecontent"><a href="https://www.researchgate.net/">ResearchGate</a> <a href="https://www.researchgate.net/"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div>
+		<ul class="sub">
+	<li class="basic" id="FM6i7hlue0a52212fnh12gj1u0jrFM"><div class="nodecontent">En realidad no es un buscador de bibliografía, sino una red social para científicos.</div></li>
+	<li class="basic" id="FM6ifdc168rpah8jdo2shgqnl7e8FM"><div class="nodecontent">Muchos investigadores suben ahí sus publicaciones y las dejan en abierto.</div></li></ul></li>
+	<li class="exp" id="FM5ot2r5c0u1thebbhcng37pjae8FM"><div class="nodecontent"><a href="https://www.sciencedirect.com/">Sciencedirect</a> <a href="https://www.sciencedirect.com/"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div>
+		<ul class="sub">
+	<li class="basic" id="FM2lsdb682gf047lh3c1b1anvf3dFM"><div class="nodecontent">Buscador propiedad de una de las editoriales más potentes (Elsevier)</div></li></ul></li>
+	<li class="exp" id="FM2ka33lad1f1ntg099mts52l204FM"><div class="nodecontent">SciHub</div>
+		<ul class="sub">
+	<li class="basic" id="FM3q4pqua105tckai0hkdsm8hu9cFM"><div class="nodecontent"><a href="https://es.wikipedia.org/wiki/Sci-hub">Artículo wikipedia</a> <a href="https://es.wikipedia.org/wiki/Sci-hub"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div></li>
+	<li class="basic" id="FM1e1jge7e9kdrnodpsnah4eab4sFM"><div class="nodecontent"><a href="https://sci-hub.box/">Sitio (actual. Cambia mucho de ubicación)</a> <a href="https://sci-hub.box/"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div></li></ul></li></ul></li></ul></li>
+	<li class="exp" id="FM1sp4ufbflbehumicdf0r56i2llFM"><div class="nodecontent">Inteligencias artificiales que ayudan (o no)</div>
+		<ul class="sub">
+	<li class="basic" id="FM2p5cc1qhrpjflutk7rud2t6f6qFM"><div class="nodecontent">Este mundo está en plena ebullición en la actualidad, así que hay poco concreto. Veremos algunas iniciativas</div></li>
+	<li class="exp" id="FM3k1gcngi9g23eped87qoqjfqbaFM"><div class="nodecontent">IAs conversacionales</div>
+		<ul class="sub">
+	<li class="exp" id="FM3fhcp49gt8bnqsj0spl70218gsFM"><div class="nodecontent"><a href="https://chat.openai.com/chat">ChatGPT</a> <a href="https://chat.openai.com/chat"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div>
+		<ul class="sub">
+	<li class="basic" id="FM0f76ptt9s4rq84ujv0bu3573c7FM"><div class="nodecontent">Es la inteligencia artificial de moda.</div></li>
+	<li class="basic" id="FM2ijhh3koqrf868c5ok3l9h4b0tFM"><div class="nodecontent">Responde preguntas sin aportar referencias.</div></li>
+	<li class="basic" id="FM73emlfr3mu7vfes265necpj80oFM"><div class="nodecontent">Escribe muy bien. Quizás mejor que tú...</div></li></ul></li>
+	<li class="basic" id="FM2rgg2q6ldbp9ius9l3tem2iv2kFM"><div class="nodecontent"><a href="https://claude.ai/new">Claude</a> <a href="https://claude.ai/new"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div></li>
+	<li class="basic" id="FM4meql7i497ns8pdvnchlrjk5aiFM"><div class="nodecontent"><a href="https://gemini.google.com/app">Gemini</a> <a href="https://gemini.google.com/app"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div></li>
+	<li class="exp" id="FM6fntt7itsdqsnn8hjebp2vget8FM"><div class="nodecontent"><a href="https://www.perplexity.ai/">Perplexity</a> <a href="https://www.perplexity.ai/"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div>
+		<ul class="sub">
+	<li class="basic" id="FM7rkq6rc60tqm7qlnbi7e5pm91pFM"><div class="nodecontent">Es capaz de responder preguntas complejas. </div></li>
+	<li class="basic" id="FM15veklfq16fvdsvc6mfr4eed4eFM"><div class="nodecontent">Aporta referencias científicas a las respuestas</div></li></ul></li></ul></li>
+	<li class="exp" id="FM1h9of9s35lmv026u4s6cit3ebpFM"><div class="nodecontent">IAs contenerizadas</div>
+		<ul class="sub">
+	<li class="basic" id="FM23lqkkh7qjrhim1s4qhgbmuc18FM"><div class="nodecontent"><a href="https://notebook.google.com/">Notebook Gemini</a> <a href="https://notebook.google.com/"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div></li></ul></li>
+	<li class="exp" id="FM61n59qe1dfukhbsiu8vd8iepilFM"><div class="nodecontent">IAs orientadas a análisis bibliográfico</div>
+		<ul class="sub">
+	<li class="exp" id="FM2nvcgfqpkpgtmir955e9o95vffFM"><div class="nodecontent"><a href="https://elicit.org/">Elicit</a> <a href="https://elicit.org/"><img src="acceso_conocimiento.html_files/ilink.png" alt="User Link" style="border-width:0" /></a></div>
+		<ul class="sub">
+	<li class="basic" id="FM7q5l9pasgstv729i1p77sqalslFM"><div class="nodecontent">Extrae síntesis de conocimiento de miles de artículos científicos.</div></li>
+	<li class="basic" id="FM6hdd257l06r7sqvpsn5nphp84iFM"><div class="nodecontent">Ofrece artículos y resúmenes de los mismos</div></li></ul></li></ul></li></ul></li></ul></li></ul></div></body></html>

@@ -62,10 +62,10 @@ En esta sección describimos brevemente cómo se almacena el conocimiento cient�
 
 ### 2.1 Las unidades elementales en las que se almacena el conocimiento
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/presentacion/publicaciones.html) enlace. 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/presentacion/publicaciones.html"
   style="width:100%; height:550px;"
 ></iframe>
 
@@ -73,10 +73,10 @@ La característica estructural básica de la información científica es que se 
 
 ### 2.2 Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos años están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las herramientas que se muestran en el siguiente mapa mental y se describen en esta sección. El mapa se puede descargar en formato xmind desde este enlace. 
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos años están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las herramientas que se muestran en el siguiente mapa mental y se describen en esta sección. El mapa se puede descargar en formato xmind desde [este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/presentacion/acceso_conocimiento.xmind) enlace. 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/main/presentacion/publicaciones.html"
+  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/presentacion/acceso_conocimiento.html"
   style="width:100%; height:550px;"
 ></iframe>
 
@@ -131,9 +131,9 @@ La idea es que busques información relevante sobre tu ecosistema usando las her
 
 La siguiente lista muestra fuentes de información generales que servirán para todos los ecosistemas:
 
-+ [*Sierra Nevada. Datos básicos*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/Dossier_OCGSN_2010.pdf). Es el libro del que saqué la idea de generar una ficha tipo para cada ecosistema. En él podréis ver ejemplos y características de los principales ecosistemas de Sierra Nevada.
-+ [*Guía del parque nacional de Sierra Nevada*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/guia-sierra-nevada.pdf). Se trata de una guía oficial de este espacio protegido. Es muy larga, pero en ella podrás ver descripciones detalladas de los ecosistemas que estamos estudiando.
-+ Extracto del libro [*Parque Natural de Sierra Nevada. Paisaje. Flora. Fauna. Itinerarios*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/vegetacion_sierra_nevada.pdf). Es un extracto escaneado del mencionado libro. Describe los principales tipos de ecosistemas usando como marco conceptual las series de vegetación. Este concepto lo estudiaremos más adelante en clase de teoría. 
++ [*Sierra Nevada. Datos básicos*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/biblio/Dossier_OCGSN_2010.pdf). Es el libro del que saqué la idea de generar una ficha tipo para cada ecosistema. En él podréis ver ejemplos y características de los principales ecosistemas de Sierra Nevada.
++ [*Guía del parque nacional de Sierra Nevada*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/biblio/guia-sierra-nevada.pdf). Se trata de una guía oficial de este espacio protegido. Es muy larga, pero en ella podrás ver descripciones detalladas de los ecosistemas que estamos estudiando.
++ Extracto del libro [*Parque Natural de Sierra Nevada. Paisaje. Flora. Fauna. Itinerarios*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/biblio/vegetacion_sierra_nevada.pdf). Es un extracto escaneado del mencionado libro. Describe los principales tipos de ecosistemas usando como marco conceptual las series de vegetación. Este concepto lo estudiaremos más adelante en clase de teoría. 
 
 
 
@@ -147,8 +147,11 @@ La siguiente lista muestra fuentes de información generales que servirán para 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
 
+***
+[Aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/blob/2026_2027/notas_imparticion_P_biblio_ecologia_ccaa.md) puedes ver las notas que tomó el profesor una vez que se impartió la clase.
+
 ****
- <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
+<p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
 <p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
 

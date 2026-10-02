@@ -7,8 +7,10 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 sesión de 2 horas en clase y otras dos horas en casa.
 
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/blob/imagenes/portada.jpg)
 
 
+https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/refs/tags/2026_2027/imagenes/portada.jpg
 [TOC]
 
 ---
@@ -23,7 +25,7 @@ La finalidad última de esta práctica es aportar al estudiante algunas herramie
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
 
 
 
@@ -31,11 +33,11 @@ Lamentablemente la verdad en sentido estricto no existe (o no es fácil de encon
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
 
 
 
@@ -142,7 +144,7 @@ La siguiente lista muestra fuentes de información generales que servirán para 
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/archive/refs/tags/2026_2027.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.

@@ -6,9 +6,11 @@
 * **Versión del acto docente:** [Versión 2026-2027](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases/tag/2026_2027)
 
 * **Dinámica y comprensión:**
-  - 
+  - Aparentemente la sesión fue bien.
+  
+  - Los estudiantes participaron y propusieron alternativas de flujo de trabajo para recopilar información
   
     
   
 * **Tareas / Ideas para el siguiente curso:**
-  - [ ] 
+  - [ ] Mejorar la forma en la que me hacen llegar la información que recopilan. 

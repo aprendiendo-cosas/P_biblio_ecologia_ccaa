@@ -6,9 +6,22 @@
 * **Versión del acto docente:** [Versión 2026-2027](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/releases/tag/2026_2027)
 
 * **Dinámica y comprensión:**
-  - Aparentemente la sesión fue bien.
+  - Mi percepción:
   
-  - Los estudiantes participaron y propusieron alternativas de flujo de trabajo para recopilar información
+    - GM2:
+      - Aparentemente la sesión fue bien.
+      - Los estudiantes participaron y propusieron alternativas de flujo de trabajo para recopilar información
+    - GM1: Parecido al otro grupo
+  
+  - Lo que ellos responden:
+  
+    - GM1: Reflexiona sobre el método que propuse para recopilar información sobre tu ecosistema. Haz al menos una crítica constructiva al mismo. Es decir, indica cómo podrías mejorarlo.
+  
+    
+  
+    
+  
+    - GM2: Reflexiona sobre el método que propuse para recopilar información sobre tu ecosistema. Haz al menos una crítica constructiva al mismo. Es decir, indica cómo podrías mejorarlo.
   
     
   

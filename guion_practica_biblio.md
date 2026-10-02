@@ -7,10 +7,10 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**:  1 sesión de 2 horas en clase y otras dos horas en casa.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/blob/imagenes/portada.jpg)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/refs/heads/main/imagenes/portada.jpg)
 
 
-https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/refs/tags/2026_2027/imagenes/portada.jpg
+
 [TOC]
 
 ---
@@ -25,7 +25,7 @@ La finalidad última de esta práctica es aportar al estudiante algunas herramie
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/yoda.jpg" alt="complejidad" style="zoom:90%;" />
 
 
 
@@ -33,11 +33,11 @@ Lamentablemente la verdad en sentido estricto no existe (o no es fácil de encon
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/complejidad.jpg" alt="complejidad" style="zoom:50%;" />
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/imagenes/verdades.jpg" alt="image" style="zoom:40%;" />
 
 
 
@@ -64,10 +64,10 @@ En esta sección describimos brevemente cómo se almacena el conocimiento cient�
 
 ### 2.1 Las unidades elementales en las que se almacena el conocimiento
 
-La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/presentacion/publicaciones.html) enlace. 
+La característica estructural básica de la información científica es que se suele describir en artículos de distinto tipo (científicos, de divulgación, etc.) o en informes científico-técnicos. [Este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/refs/heads/main/presentacion/publicaciones.xmind) mapa mental describe las características básicas de esas unidades elementales. El mapa se abre con [Xmind](https://www.xmind.net/). También puedes verlo incrustado a continuación y en [este](https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2025_2026/presentacion/publicaciones.html) enlace. 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/presentacion/publicaciones.html"
+  src="https://aprendiendo-cosas.github.io/P_biblio_ecologia_ccaa/presentacion/publicaciones.html"
   style="width:100%; height:550px;"
 ></iframe>
 
@@ -75,10 +75,10 @@ La característica estructural básica de la información científica es que se 
 
 ### 2.2 Formas de acceder al conocimiento científico
 
-En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos años están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las herramientas que se muestran en el siguiente mapa mental y se describen en esta sección. El mapa se puede descargar en formato xmind desde [este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/presentacion/acceso_conocimiento.xmind) enlace. 
+En la actualidad todo el conocimiento científico publicado está disponible en internet. Podemos acceder al mismo mediante multitud de buscadores. Pero además, en los últimos años están proliferando las herramientas de inteligencia artificial que nos ayudan a sintentizar información procedente de artículos científicos. En esta práctica usaremos las herramientas que se muestran en el siguiente mapa mental y se describen en esta sección. El mapa se puede descargar en formato xmind desde [este](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/refs/heads/main/presentacion/acceso_conocimiento.xmind) enlace. 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/2026_2027/presentacion/acceso_conocimiento.html"
+  src="https://aprendiendo-cosas.github.io/P_biblio_ecologia_ccaa/presentacion/acceso_conocimiento.html"
   style="width:100%; height:550px;"
 ></iframe>
 
@@ -101,13 +101,13 @@ En la actualidad todo el conocimiento científico publicado está disponible en 
 
 Propongo usar las herramientas anteriores de la siguiente manera:
 
-+ Para buscar fuentes de información fiables sobre el tema del que queramos aprender, sugiero usar Perplexity y Elicit. Además de ser IAs que generan textos, aportan fuentes de información valiosas de distintos tipo.
-+ También se pueden usar Google Scholar o Web Of Science para buscar literatura científica.
-+ Tras revisar la bibliografía aportada por las herramientas anteriores, seleccionaremos las fuentes más relevantes. Luego las subiremos a un cuaderno personal de Notebook LM. En dicho cuaderno podremos usar las funciones de conversación, creación de podcasts, vídeos, etc. Con los resultados de este proceso de interacción con la IA aprenderemos lo que necesitamos sobre nuestro ecosistema.
-+ Para avanzar más en detalles concretos, podemos conversar con ChatGPT. 
+1. **Búsqueda e identificación de fuentes:** Se emplean herramientas de inteligencia artificial orientadas a la investigación académica con trazabilidad de citas (como Perplexity o Elicit) o el motor de búsqueda integrado de NotebookLM para localizar artículos científicos, monografías y documentación técnica relevante para el caso de estudio.
+2. **Filtrado y depuración:** Tras una lectura exploratoria, se descartan los documentos no pertinentes, duplicados o de carácter meramente normativo/administrativo (como boletines oficiales), seleccionando únicamente la evidencia científica aplicable.
+3. **Integración en un cuaderno analítico:** Las fuentes seleccionadas se importan al entorno de NotebookLM. Este espacio centraliza el corpus documental temático del ecosistema analizado.
+4. **Interacción y asistencia sintética:** El modelo consulta de forma estricta las fuentes vinculadas —de manera global o por subconjuntos seleccionados— para dar soporte tanto a la redacción de secciones introductorias como a la interpretación de resultados y figuras derivadas de análisis cuantitativos (por ejemplo, procesamiento de datos en R).
+
   
-  
-  
+
 ### 2.3 Gestores de bibliografía.
 
 Ante la gran cantidad de publicaciones disponibles se hace necesario utilizar aplicaciones informáticas que nos permiten gestionar bibliografía. Estas herramientas serán muy útiles en vuestro trabajo diario y más aún cuando estéis haciendo el TFG. Por eso, a continuación os paso algo de información para que os familiaricéis con la idea:
@@ -123,9 +123,14 @@ Ante la gran cantidad de publicaciones disponibles se hace necesario utilizar ap
 
 La idea es que busques información relevante sobre tu ecosistema usando las herramientas mostradas en esta práctica. También debes usar una aproximación similar para estudiar la asignatura en su conjunto. Para el trabajo de caracterización de ecosistemas tendrás que:
 
-+ Recopilar todas las fuentes de información relevantes en una carpeta de tu ordenador. Tendrás que compartir esa información con el profesor a la hora de entregar el trabajo. Para compartir esta información puedes subirla a una carpeta de Microsoft Onedrive. En ese caso, usa mi correo de la UCO para compartir: bv2bogaf@uco.es
++ Recopilar todas las fuentes de información relevantes en una carpeta de tu ordenador. 
 + Almacena también las conversaciones que tengas con las IAs para recopilar información. También tendrás que entregarlas.
-+ Comparte con el profesor (fjbonet@gmail.com) el Notebook que crees con las fuentes de información que hayas considerado relevantes.
++ Crea un Notebook con todo el material que hayas generado. Transforma a documentos dentro de dicho Notebook las conversaciones que consideres más relevantes.
+
+Cuando tengas el material anterior, completa [estas](https://script.google.com/macros/s/AKfycbx40ta7IJmMVeXYW7RwXiektBtsGzFAFNYAxcf2Izp5eJpFrMd2FJS-3m9JRXluxxdA1w/exec) preguntas. En la sección de evidencias tienes que poner:
+
+- Dirección web de la carpeta en la que has subido todo el material que consideras útil. Ponlo en un servicio de archivos en la nube como Dropbox, Google Drive o Microsoft Onedrive. Asegúrate de que la carpeta en cuestión tiene permisos para que cualquier (en realidad seré solo yo) pueda ver su contenido.
+- Pon también como evidencia la URL del Notebook que hayas creado. Además, compártelo con este correo: fjbonet@gmail.com
 
 
 
@@ -133,9 +138,9 @@ La idea es que busques información relevante sobre tu ecosistema usando las her
 
 La siguiente lista muestra fuentes de información generales que servirán para todos los ecosistemas:
 
-+ [*Sierra Nevada. Datos básicos*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/biblio/Dossier_OCGSN_2010.pdf). Es el libro del que saqué la idea de generar una ficha tipo para cada ecosistema. En él podréis ver ejemplos y características de los principales ecosistemas de Sierra Nevada.
-+ [*Guía del parque nacional de Sierra Nevada*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/biblio/guia-sierra-nevada.pdf). Se trata de una guía oficial de este espacio protegido. Es muy larga, pero en ella podrás ver descripciones detalladas de los ecosistemas que estamos estudiando.
-+ Extracto del libro [*Parque Natural de Sierra Nevada. Paisaje. Flora. Fauna. Itinerarios*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2026_2027/biblio/vegetacion_sierra_nevada.pdf). Es un extracto escaneado del mencionado libro. Describe los principales tipos de ecosistemas usando como marco conceptual las series de vegetación. Este concepto lo estudiaremos más adelante en clase de teoría. 
++ [*Sierra Nevada. Datos básicos*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/Dossier_OCGSN_2010.pdf). Es el libro del que saqué la idea de generar una ficha tipo para cada ecosistema. En él podréis ver ejemplos y características de los principales ecosistemas de Sierra Nevada.
++ [*Guía del parque nacional de Sierra Nevada*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/guia-sierra-nevada.pdf). Se trata de una guía oficial de este espacio protegido. Es muy larga, pero en ella podrás ver descripciones detalladas de los ecosistemas que estamos estudiando.
++ Extracto del libro [*Parque Natural de Sierra Nevada. Paisaje. Flora. Fauna. Itinerarios*](https://github.com/aprendiendo-cosas/P_biblio_ecologia_ccaa/raw/2025_2026/biblio/vegetacion_sierra_nevada.pdf). Es un extracto escaneado del mencionado libro. Describe los principales tipos de ecosistemas usando como marco conceptual las series de vegetación. Este concepto lo estudiaremos más adelante en clase de teoría. 
 
 
 
